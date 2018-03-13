@@ -1,0 +1,48 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Yesterday}
+  [by={The Beatles},cover={1},album={1}]
+
+  \cover
+  \gtab{C}{X32010}
+  \gtab{E7}{020100}
+  \gtab{Am}{X02210}
+  \gtab{F}{1:022100}
+  \gtab{G7}{320001}
+  \gtab{D}{XX0232}
+
+  \begin{verse}
+    \[C]Yesterday
+    \[Bm] All my \[E7]troubles seemed so \[Am]far away \[G]
+    \[F]Now it \[G7]seems as though they're \[C]here to stay
+    Oh, \[Am]I be\[D]lieve in \[F]yester\[C]day
+  \end{verse}
+
+  \begin{verse}
+    Suddenly
+    I'm not half the man I used to be
+    There's a shadow hanging over me
+    Oh, yesterday came suddenly
+  \end{verse}
+
+  \begin{chorus}
+    \[E7]Why she \[Am]had \[G]to g\[F]o
+    I don't \[G7]know, she wouldn't \[C]say
+    \[E7]I said \[Am]some\[G]thing \[F]wrong
+    Now I \[G7]long for yester\[C]day
+  \end{chorus}
+
+  \begin{verse}
+    Yesterday
+    Love was such an easy game to play
+    Now I need a place to hide away
+    Oh, I believe in yesterday
+  \end{verse}
+
+  \musicnote{\Chorus, \Verse{} 3}
+
+  \begin{verse}
+  \[C]hmmm hmmm \[D7]hmmm hmmm \[F]hmmm hmmm \[C]hmmm
+  \end{verse}  
+
+\endsong

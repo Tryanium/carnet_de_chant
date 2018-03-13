@@ -1,0 +1,75 @@
+book: # Options générales
+  lang: fr
+  encoding: utf-8
+  pictures: no
+  template: patacrep.tex
+  onesongperpage: no
+
+chords: # Options musicales
+  show: yes
+  diagramreminder: important
+  diagrampage: all
+  repeatchords: no
+  lilypond: no
+  tablatures: no
+  instrument: guitar
+  notation: alphascale
+
+template:
+  default.tex:
+    title: "Carnet de chanson"
+    author: "NDC"
+  patacrep.tex:
+    subtitle: "carnet de chant de la ville de Rueil-Malmaison"
+    version: "1.0.0"
+    url: ""
+    email: "mmouscadet@outlook.fr"
+    color:
+      songlink: "010101"
+      hyperlink: 6064EC
+    bgcolor:
+      note: FEFEFE
+      songnumber: FEFEFE
+      index: FEFEFE
+
+
+authors: # Analyse des auteurs
+  separators:
+  - and
+  ignore:
+  - unknown
+  after:
+  - by
+
+titles: # Analyse des titres
+  prefix:
+  - The
+  - Le
+  - La
+  - "L'"
+  - A
+  - Au
+  - Ces
+  - De
+  - Des
+  - El
+  - Les
+  - Ma
+  - Mon
+  - Un
+content:
+  - section: "Chant scout"
+  - sort:
+      key: ["by", "title"]
+      content:
+        - "chant/*.sg"
+  - section: "Chants étrangers"
+  - sort:
+      key: ["by", "title"]
+      content:
+        - "chant_anglais/*.sg"
+  - section: "Chants religieux"
+  - sort:
+      key: ["by", "title"]
+      content:
+        - "chants_religieux/*.sg"

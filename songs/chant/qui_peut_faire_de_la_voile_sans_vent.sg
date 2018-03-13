@@ -1,0 +1,30 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Qui peut faire de la voile sans vent}
+  [by={Folklore}]
+
+\cover
+
+\begin{verse}
+  \[Am] Qui peut faire de la voile sans vent
+  \[Dm] Qui peut ramer sans \[Am] rame
+  \[Dm] Et qui peut quitter un \[Am] ami
+  \[E] Sans verser de \[Am] larme
+  \[Am] Je peux faire de la voile sans vent
+  \[Dm] Je peux ramer sans \[Am] rame
+  \[Dm] Mais je ne peux quitter un \[Am] ami
+  \[E] Sans verser de \[Am] larme
+\end{verse}
+
+\begin{verse}
+  Qui peut croire un instant à l'amour
+  Quand tant d'hommes se battent
+  Et qui peut oublier un jour
+  Le monde et ses massacres
+  Je peux croire un instant à l'amour
+  Quand tant d'hommes se battent
+  Mais je ne peux oublier un jour
+  Le monde et ses massacres
+\end{verse}
+
+\endsong

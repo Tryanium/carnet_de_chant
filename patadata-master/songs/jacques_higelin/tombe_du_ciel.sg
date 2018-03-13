@@ -1,0 +1,147 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Tombé du ciel}
+  [by={Jacques Higelin},cover={preferences},album={Préférences}]
+
+  \cover
+  \gtab{Dm}{XX0231}
+  \gtab{Am}{X02210}
+  \gtab{B&}{1:X02220}
+  \gtab{Gm}{3:022000}
+  \gtab{C}{X32010}
+  \gtab{F}{1:022100}
+  \gtab{F/A}{X0321X}
+  \gtab{A7}{X02020}
+  \gtab{A&}{4:022100}
+  \gtab{E&}{6:X02220}
+  \gtab{D&}{4:X02220}
+  \gtab{C#dim}{3:X2313X}
+  \gtab{Fm}{8:X02210}
+  \gtab{D7sus4}{5:X02030}
+  \gtab{D7sus2}{5:X02000}
+
+  \begin{verse}
+    Tombé du \[Dm]ciel
+    À travers les \[Am]nuages
+    Quel heureux pré\[B&]sage \[Am]
+    \[Gm]Pour un aiguilleur \[C]{du ciel}
+  \end{verse}
+
+  \begin{verse*}
+    \[C#dim]Tombé du \[Dm]lit
+    Fauché en plein \[Am]rêve
+    Frappé par le \[B&]glaive \[Am]
+    \[Gm]{De la} sonnerie \[C]{du réveil}
+  \end{verse*}
+
+  \begin{chorus}
+    Tom\[F]bé \[C]dans l'oreille d'un \[Dm]sourd
+    Qui ven\[C]ait de tomber
+    \[B&]En amour la \[F/A]veille
+    \[B&]{D'une} hôtesse de l'\[C]air fidèle
+  \end{chorus}
+
+  \begin{chorus}
+    Tom\[F]bée \[C]{du haut} d'la pass'\[Dm]relle
+    Dans les \[C]bras d'un baga\[B&]giste
+    Un peu vo\[F/A]lage
+    \[B&]Ancien tueur à \[F/A]gages
+    Com\[B&]ment peut-on tom\[Gm]ber plus \[A7]mal
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Tombé du \[Dm]ciel
+      Rebelle aux lou\[Am]anges
+      Chassé par les \[B&]anges \[Am]
+      \[Gm]{Du paradis} ori\[C]ginel
+    \end{verse}
+
+    \begin{verse*}
+      \[C#dim]Tombé \[Dm]d'sommeil
+      Perdu connai\[Am]ssance
+      Retombé en en\[B&]fance \[Am]
+      \[Gm]{Au pied} du grand \[C]sapin de
+    \end{verse*}
+
+    \begin{chorus}
+      No\[F]ël, \[C]voilé de mys\[Dm]tère
+      Sous mon \[C]regard éblou\[B&]i
+      Par la nai\[F/A]ssance
+      \[Gm]D'une étoile dans \[C]{le désert}
+    \end{chorus}
+
+    \begin{chorus}
+      \[F]Tombé \[C]comme un mété\[Dm]ore
+      Dans les \[C]poches de Baltha\[B&]zar
+      Gaspard ou Mel\[F/A]chior
+      Les \[B&]trois fameux rois \[F/A]mages
+      \[B&]Trafiquants d'im\[Gm]port-ex\[A7]port
+    \end{chorus}
+  \end{repeatedchords}
+
+  \begin{verse*}
+    \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
+    \[D7sus4]Tombé à la fleur de l'âge, dans l'oubli
+  \end{verse*}
+
+  \musicnote{Solo sur les accords du couplet 1}
+
+    \begin{chorus}
+      C'est \[F]fou, \[C]c'qu'on peut voir tom\[Dm]ber
+      Quand on \[C]traîne sur le pa\[B&]vé
+      Les yeux en \[F/A]l'air
+      La \[Gm]semelle battant \[C]{la poussière}
+    \end{chorus}
+
+    \begin{chorus}
+      On \[F]voit \[C]tomber des bal\[Dm]cons
+      Des mé\[C]gots, des pots d'fleurs
+      \[B&]Des chanteurs de \[F/A]charme
+      Des \[B&]jeunes filles en \[F/A]larmes
+      Et \[B&]des alpinistes \[Gm]ama\[A7]teurs
+    \end{chorus}
+
+  \begin{chorus}
+    \[A&]Tombé d'en haut
+    \[E&]Comme les petites gouttes \[Fm]d'eau
+    Que j'en\[E&]tends tomber
+    De\[D&]hors, par la \[A&]f'nêtre
+    Quand \[D&]{je m'endors} le \[E&]cœur en fête
+  \end{chorus}
+
+  \begin{chorus}
+    \[A&]Poseur de \[E&]girouettes\[Fm]
+    Du haut \[E&]{du clocher}
+    \[D&]Donne à ma vo\[B&m]ix, \[D&]{la directi}\[B&m]on
+    Par \[D&]{où le} vent fredonne ma chanson
+  \end{chorus}
+
+  \begin{verse*}
+    \[D7sus4]Tombé sur un jour de chance \[D7sus4 D7sus2]
+     \[D7sus4]Tombé par inadvertance, amoureux
+  \end{verse*}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Tombé à \[Dm]terre
+      Pour la fille qu'on \[Am]aime
+      Se relever in\[B&]demne \[Am]
+      \[Gm]{Et retomber} \[C]amoureux
+    \end{verse}
+
+    \begin{verse*}
+      \[C#dim]Tombé sur \[Dm]toi
+      Tombé en pâ\[Am]moison
+      Avaler la \[B&]ciguë \[Am]
+      \[Gm]Goûter le poi\[C]son qui tue
+    \end{verse*}
+  \end{repeatedchords}
+
+  \begin{verse*}
+    \[F]L'amour \[C Dm C B& F/A B&]
+    \[C]L'amour encore et \[F]toujours
+    \nolyrics{\[C Dm C B& F/A B& F/A B& Gm A7 $\cdots$]}
+  \end{verse*}
+
+\endsong
