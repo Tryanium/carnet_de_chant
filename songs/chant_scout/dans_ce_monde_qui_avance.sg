@@ -1,0 +1,31 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Dans ce monde qui avance}[
+  by={H. Bourel et ML. Valentin}]
+
+\begin{verse*}
+  on frappe dans ses mains à la « We will rock you »
+\end{verse*}
+
+\begin{chorus}
+  \[E]Dans ce monde qui\[B] avance
+  \[A]Je fais de mon mie\[B]ux
+  \[E]Pour faire vivre l'es\[B]pérance
+  \[A]Et gran\[B]dir le f\[E]eu
+\end{chorus}
+
+\begin{verse}
+  Je m\[A]e connais.
+  Tu t\[E/G#]e connais.
+  Je sa\[A/F#]is miser sur mes at\[B]outs.
+  Je le pr\[A]omets.
+\end{verse}
+
+\begin{verse*}
+  Tu l\[E/G#]e promets.
+  Ense\[A/F#]mble on ira jusqu'au\[B] bout.
+  \[F#m]Quand l’un de nous \[C#m]tombera.
+  \[F#m]On pourra comp\[A]ter s\[B]ur toi.
+\end{verse*}
+
+\endsong

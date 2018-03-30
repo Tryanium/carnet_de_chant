@@ -58,16 +58,21 @@ titles: # Analyse des titres
   - Mon
   - Un
 content:
-  - section: "Chant scout"
+  - section: "Chants français"
   - sort:
       key: ["by", "title"]
       content:
-        - "chant/*.sg"
+        - "chant_francais/*.sg"
   - section: "Chants étrangers"
   - sort:
       key: ["by", "title"]
       content:
         - "chant_anglais/*.sg"
+  - section: "Chants scouts"
+  - sort:
+      key: ["by", "title"]
+      content:
+        - "chant_scout/*.sg"
   - section: "Chants religieux"
   - sort:
       key: ["by", "title"]
