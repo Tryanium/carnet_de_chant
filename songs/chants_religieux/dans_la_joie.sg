@@ -1,0 +1,50 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Dans la joie}
+  [by={Glorious}]
+
+\begin{chorus}
+  Je suis \[G]dans la jo\[D]ie
+  Une \[A]joie imme\[Bm]nse
+  Je suis \[G]dans l'allégre\[D]sse
+  Car mon \[A]Dieu m'a libér\[Bm]é
+  Je suis \[G]dans la jo\[D]ie
+  Une \[A]joie imme\[Bm]nse
+  Je suis \[G]dans l'allégr\[D]esse
+  Car mon \[A]Dieu m'a libér\[G]é \[D] \[G] \[D] \[G] \[D] \[G] \[D]
+\end{chorus}
+
+\begin{verse}
+  (bis) Je chante\[G]rai de tout coe\[D]ur
+  Les merveill\[A]es de Jésus mon Seign\[Bm]eur
+  Il m'a \[G]ôté des tén\[D]èbres
+  Il m'a déli\[A]vré de tout péch\[D]é
+\end{verse}
+
+\begin{verse}
+  Car mon Dieu\[G] est fidè\[D]le
+  Il ne m'a\[A]bandonne jama\[Bm]is
+  Je n'ai p\[G]lus rien à crai\[D]ndre
+  Car mon D\[A]ieu m'a libér\[D]é
+\end{verse}
+
+\begin{verse*}
+  Je suis \[G]dans la jo\[D]ie
+  Une \[A]joie imme\[Bm]nse
+  Je suis \[G]dans l'allégre\[D]sse
+  Car mon \[A]Dieu m'a libér\[Bm]é
+\end{verse*}
+
+\begin{verse*}
+  \echo{G D A Bm G D A}
+  \echo{J\[Bm]e suis dans la joie G D A Bm G D A}
+\end{verse*}
+
+\begin{verse*}
+  Je suis \[G]dans la jo\[D]ie
+  Une \[A]joie imme\[Bm]nse
+  Je suis \[G]dans l'allégre\[D]sse
+  Car mon \[A]Dieu m'a libér\[D]é
+\end{verse*}
+
+\endsong
