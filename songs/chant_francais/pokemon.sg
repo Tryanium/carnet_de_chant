@@ -1,0 +1,33 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Pokémon}
+  [by={Pokémon}]
+
+\begin{verse*}
+  \[Em]Un jo\[D]ur je serai le meilleur dresseur
+  \[Em]Je me\[D]nbattrai sans répit
+  \[C]Je f\[G]erai tout pour être vainqueur
+  \[G]Et g\[A]agne\[B]r les défis
+  \[Em]Je pa\[D]rcourrai la terre entière
+  \[Em]Traqu\[D]ant avec espoir
+  \[C]Les\[G] Pokémon et leurs mystères
+  \[G]Le s\[A]ecre\[B]t de leurs pouvoirs
+\end{verse*}
+
+\begin{verse*}
+  \[C]Pokémon
+  \[G]Attrapez-les tous
+  \[C]Ense\[D]mble pour la victoire
+  \[Em]Pokémon
+  \[D]Rien ne nous arrêtera
+  \[G]Notr\[A]e am\[B]itié triomphera
+  \[C]Poké\[G]mon attrapez-les tous
+  \[C]Un v\[D]oyage d'apprentissage
+  \[C]Ça d\[G]emande du courage
+  \[G]Poké\[A]mon\[B] !
+  \[C]Attrapez-les tous
+  \[D]Attr\[Em]apez-les tous
+  Pokemon
+\end{verse*}
+
+\endsong
