@@ -1,0 +1,26 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Gai luron des Flandres}
+  [by={Folkore}]
+
+\begin{verse}
+  Un g\[E]ai luron des F\[A]landres
+  S’en vint en W\[E]allonie,
+  S’en vint, s’en v\[A]int en W\[E]allonie.
+\end{verse}
+
+\begin{verse}
+  Pour y\[E] conter des f\[A]ables,
+  Des fables de s\[E]on pays.
+  Tiralala, Tiralala,
+  Des f\[A]ables de s\[E]on pays.
+\end{verse}
+
+\begin{verse}
+  Heur\[E]eux qui peut ent\[A]endre,
+  Entendre s\[E]es chansons
+  Tiralala, Tiralala,
+  Ent\[A]endre s\[E]es chansons.
+\end{verse}
+
+\endsong
