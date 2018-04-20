@@ -1,0 +1,58 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Allumer le feu}
+  [by={Johnny Halliday}]
+
+\begin{verse}
+  \[Bm]Tourner le temps à l'orage\[D5] \[E7]
+  \[E7]Revenir à l'état sauvage\[G] \[A]
+  \[A]Forcer les portes les barrages\[E] \[F#m]
+  \[F#m]Sortir le loup de sa ca\[A]ge
+  \[Bm]Sentir le vent qui se déchaîne\[D5] \[E7]
+  \[E7]Battre le sang dans nos veines\[G] \[A]
+  \[A]Monter le son des guitares\[E] \[F#m]
+  \[F#m]Et le bruit des motos qui démarrent
+\end{verse}
+
+\begin{verse*}
+  Il suff\[G]ira d'une ét\[E]ince\[F#m/G]lle
+  D'u\[A]n ri\[D5]en d'\[E7]un geste\[A] \[D5] \[E7]
+  \[E]Il s\[F#m/G]uffira d'une étin\[E]cell\[F#m/G]e
+  \[A]D'un mot d'amour... Pour...
+\end{verse*}
+
+\begin{chorus}
+  All\[Bm]umer le feu\[D5]
+  All\[E7]umer le\[G] feu
+  Et faire\[E] danser\[G] les diables et le\[A]s dieux
+  All\[Bm]umer le f\[D5]eu
+  All\[E7]umer le f\[G]eu
+  Et voir\[E] grandir\[G] la flamme dans\[A] vos yeux
+  Allumer le feu (x2)
+\end{chorus}
+
+\begin{verse*}
+  \[Bm] \[D5] \[E7] \[G] \[A] \[E/F#] \[A]
+\end{verse*}
+
+\begin{verse}
+  \[Bm]Laisser derrière toutes nos peines\[D5] \[E7]
+  \[E7]Nos haches de guerre nos problèmes\[G] \[A]
+  \[A]Se libérer de nos chaînes\[E] \[F#m]
+  \[F#m]Lâcher le lion dans l'arè\[A]ne
+  \[Bm]Je veux la foudre et l'éclair\[D5] \[E7]
+  \[E7]L'odeur de poudre le tonnerre\[G] \[A]
+  \[A]Je veux la fête et les rires\[E] \[F#m]
+  \[F#]Je veux la foule en délire
+\end{verse}
+
+\begin{verse*}
+  Il suff\[G]ira d'une ét\[E]ince\[F#m/G]lle
+  D'u\[A]n ri\[D5]en d'\[E7]un geste\[A] \[D5] \[E7]
+  \[E]Il s\[F#m/G]uffira d'une étin\[E]cell\[F#m/G]e
+  \[A]D'un peu de jour... Pour...
+\end{verse*}
+
+\echo{refrain(x2)}
+
+\endsong
