@@ -1,0 +1,76 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Je vole}
+  [by={Michel Sardou}]
+
+
+\begin{verse}
+  \[G7]Mes chers parents je\[C] pars
+  \[G7]Je vous aime mais\[Am] je pars
+  \[G7]Vous n'aurez plus\[F] d'enfants, ce soir\[G]
+
+  \[G7]Je n'm'enfuis pas je\[C] vole
+  \[G7]Comprenez bien je\[Am] vole
+  \[G7]Sans fumée sans al\[F]cool, je vole, je\[G] vole
+\end{verse}
+
+\echo{(Parlé :)  G7   C   G7   Am   G7   F   G}
+
+\begin{verse}
+  C'est jeudi il est 5h05
+  J'ai bouclé une petite valise
+  Et je traverse doucement l'appartement endormi
+  J'ouvre la porte d'entrée en retenant mon souffle
+  Et je marche sur la pointe des pieds
+  Comme les soirs où je rentrais après minuit Pour ne pas qu'ils se réveillent
+\end{verse}
+
+\begin{verse*}
+  Hier soi à table
+  J'ai bien cru que ma mère se doutait de quelque chose
+  Elle m'a demandé si j'étais malade
+  Pourquoi j'étais si pâle J'ai dit que j'étais très bien
+  Tout à fait clair je pense qu'elle a fait semblant de me croire
+  Et mon père m'a souri
+\end{verse*}
+
+\begin{verse*}
+  En passant à côté de sa voiture J'ai ressenti comme un drôle de coup
+  Je ne pensais que ce serait plus dur et plus grisant
+  Un peu comme une aventure mais moins déchirant
+  Oh surtout ne pas se retourner, s'éloigner un peu plus
+  Il y a la gare Et après la gare il y a l'Atlantique
+  Et après l'Atlantique ...
+\end{verse*}
+
+\echo{G7   C   G7   Am   G7   F   G}
+\echo{(Parlé :)  G7   C   G7   Am   G7   F   G}
+
+\begin{verse}
+  C'est bizarre cette espèce de cage qui me bloque la poitrine
+  Ça m'empêche presque de respirer
+  Je me demande si tout à l'heure
+  Mes parents se douteront que je suis en train de pleurer
+  Oh surtout ne pas se retourner, ni les yeux ni la tête
+  Ne pas regarder derrière
+\end{verse}
+
+\begin{verse*}
+  Seulement voir ce que je me suis promis
+  Et pourquoi et où et comment...
+  Il est 7h moins 5 et je me suis rendormi dans ce train
+  Qui s'éloigne un peu plus
+  Oh surtout ne plus se retourner... jamais !
+\end{verse*}
+
+\begin{verse}
+\[G7]Mes chers parents je\[C] pars
+\[G7]Je vous aime mais\[Am] je pars
+\[G7]Vous n'aurez plus\[F] d'enfants, ce soir\[G]
+
+\[G7]Je n'm'enfuis pas je\[C] vole
+\[G7]Comprenez bien je\[Am] vole
+\[G7]Sans fumée sans al\[F]cool, je vole, je\[G] vole
+\end{verse}
+
+\endsong
