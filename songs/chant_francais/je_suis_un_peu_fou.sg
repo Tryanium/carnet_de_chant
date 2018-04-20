@@ -1,0 +1,44 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Je suis un peu fou}
+  [by={Folklore}]
+
+\begin{chorus}
+  \[C]Je su\[G7]is un p\[C]eu fou,\[C7]
+  \[F]Sac au dos sans t\[C]rêve.
+  \[F]J'emporte m\[G]on hibo\[F]u
+  Et mon banj\[C]o, e\[G]t mes r\[F]êves.\[D]
+\end{chorus}
+
+\begin{verse}
+  Ah ! qu\[F]'il fait bon là-bas,
+  Aller v\[C]ivre à l'aventu\[G7]re,
+  Coucher sur le sol dur
+  Au fond d\[C]es bois !
+\end{verse}
+
+\begin{verse*}
+  Quand l\[F]a lune se lèvera
+  Mon h\[C]ibou hululera :
+  \[G7]Tiou, tiou tralala la\[C] la la
+\end{verse*}
+
+\begin{verse}
+  J'emporterai là-bas le vent de la liberté
+  Loin des lieux habités au fond des bois,
+  Quand la lune se lèvera...
+\end{verse}
+
+\begin{verse}
+  Je sentirai là-bas la grande joie d'exister
+  Sous le beau ciel d'été au fond des bois,
+  Quand la lune se lèvera...
+\end{verse}
+
+\begin{verse}
+  Je pourrai vivre là de beaux rêves enchantés,
+  Des jours pleins d'amitié, au fond des bois,
+  Quand la lune se lèvera...
+\end{verse}
+
+\endsong
