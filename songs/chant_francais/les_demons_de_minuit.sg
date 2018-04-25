@@ -1,0 +1,38 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les démons de minuit}
+  [by={Emile et Images}]
+
+\begin{verse}
+  \[A]Rue déserte, dernière cigarette plus rien ne\[C#m] bouge
+  Juste un bar éclaire le comptoir d'un néon rouge
+  \[C]J'ai besoin de trouver quelqu'un, j'veux pas do\[Em]rmir
+  \[C]Je cherche un peu de chaleur\[Am] à mettre dans mon cœur\[B7]
+\end{verse}
+
+\begin{chorus}
+  Ils m'en\[Em]traînent au bout de la nuit\[C], les\[Am] démons de\[D] minuit,\[Em]
+  M'entraînent jusqu'à l'insomnie... les fantômes de l'ennui
+\end{chorus}
+
+\begin{verse*}
+ \echo{Em   D   Em   C   Am   G   Am  \rep{2}  Em}
+\end{verse*}
+
+\begin{verse}
+  \[A]Dans mon verre je regarde la mer qui se b\[C#m]alance
+  J'veux un disque de funky music faut que ça danse
+  \[C]J'aime cette fille sur talons aiguilles qui se\[Em] balance
+  \[C]Ca met un peu de chale\[Am]ur au fond de mon co\[B7]eur
+\end{verse}
+
+\begin{verse}
+  \[C]J'aime cette fille sur talons aiguilles qui se dé\[Em]hanche
+  \[C]Ca met un peu de chal\[Am]eur au fond de mon cœu\[B7]r
+\end{verse}
+
+\begin{verse*}
+  \echo{Finale : Em   D   Em   C   Am   G   Am   Em}
+\end{verse*}
+
+\endsong
