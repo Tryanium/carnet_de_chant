@@ -1,0 +1,53 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les cosaques}[
+  by={Folklore}]
+
+
+\begin{verse}
+  \[Am]Nous aimons vivre au fond des bois
+  Aller cou\[E]cher sur la\[Am] dure
+
+  \[Dm]La forêt nous dit\[Am] de ses mille voix
+  Lance-\[E]toi dans la grande ave\[Am]nture\[A7]
+  \[Dm]La forêt nous dit\[Am] de ses mille voix
+  Lance-\[E] toi dans la gra\[E7]nde av\[Am]entur\[E]e \[Am]
+\end{verse}
+
+\begin{chorus}
+  Tra la la ...
+\end{chorus}
+
+\begin{verse}
+  Nous aimons vivre auprès du feu
+  Et danser sous les étoiles
+
+  La nuit claire nous dit de ses mille voix
+  Sois gai lorsque le ciel est sans voile.
+\end{verse}
+
+\begin{verse}
+  Nous aimons vivre sur nos chevaux
+  Dans les plaines du Caucase
+
+  Emportés par de rapides galops
+  Nous allons plus vite que Pégase.
+\end{verse}
+
+\begin{verse}
+  Nous aimons vivre auprès du feu
+  Et chanter sous les étoiles.
+
+  La nuit claire nous dit de ses mille feux
+  Sois gai lorsque le ciel est sans voile
+\end{verse}
+
+\begin{verse}
+  Nous aimons vivre librement
+  Boire vodka et manger pirouchki.
+
+  Danser et rire dans tout le régiment
+  Et défiler dans les villages conquis
+\end{verse}
+
+\endsong
