@@ -1,0 +1,85 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les trois marins de Groix}
+  [by={Folklore}]
+
+
+\begin{verse}
+  N\[Em]ous étions d\[A]Aeux, nous étions\[Em] trois \rep{2}
+  \echo{N\[Em]ous étions d\[A]Aeux, nous étions\[Em] trois \rep{2}}
+  Nous étion\[A]s trois marins d\[Em]e Groix
+\end{verse}
+
+\begin{chorus}
+  Mon tra déri\[A]tra la l\[Em]a la
+  Mon tra déri\[A]tra la lè è\[Em] è re.
+  \echo{Mon tra déritra la la la Mon tra déritra la lè è è re.}
+\end{chorus}
+
+\begin{verse}
+  M\[Em]on matel\[A]ot, le mousse et\[Em] moi \rep{2}
+  \echo{M\[Em]on matel\[A]ot, le mousse et\[Em] moi \rep{2}}
+  Embarqu\[A]és sur le Saint Fra\[Em]nçois.
+\end{verse}
+
+\begin{verse}
+  Vint à venter grains de noroît \rep{2}
+  \echo{Vint à venter grains de noroît \rep{2}}
+  A faire céder notre mât !
+\end{verse}
+
+\begin{verse}
+  Jean-Pierre, dis-je, matelot ! \rep{2}
+  \echo{Jean-Pierre, dis-je, matelot ! \rep{2}}
+  Serrer d'la toile qu'il nous faut.
+\end{verse}
+
+\begin{verse}
+  Ce failli temps mollira pas \rep{2}
+  \echo{Ce failli temps mollira pas \rep{2}}
+  Je prends la barr' vas-y mon gars
+\end{verse}
+
+\begin{verse}
+  Il est allé pour prendr' un ris \rep{2}
+  \echo{Il est allé pour prendr' un ris \rep{2}}
+  Un coup de mer l'aura surpris.
+\end{verse}
+
+\begin{verse}
+  Au jour j'ai revu son sabot \rep{2}
+  \echo{Au jour j'ai revu son sabot \rep{2}}
+  Il flottait seul là-bas sur l'eau.
+\end{verse}
+
+\begin{verse}
+  Il n'a laissé sur not' bateau \rep{2}
+  \echo{Il n'a laissé sur not' bateau \rep{2}}
+  Qu'un vieux bonnet et son couteau
+\end{verse}
+
+\begin{verse}
+  Plaignez mon pauvre matelot \rep{2}
+  \echo{Plaignez mon pauvre matelot \rep{2}}
+  Sa femme avec ses trois petiots
+\end{verse}
+
+\begin{verse}
+  Sa pauvre maman s’en est allée \rep{2}
+  \echo{Sa pauvre maman s’en est allée \rep{2}}
+  Prier à Sainte-Anne d’Auray.
+\end{verse}
+
+\begin{verse}
+  Sainte Anne, rendez-moi mon garçon \rep{2}
+  \echo{Sainte Anne, rendez-moi mon garçon \rep{2}}
+  Il était jeune, il était blond.
+\end{verse}
+
+\begin{verse}
+  Et sainte Anne lui répondit : \rep{2}
+  \echo{Et sainte Anne lui répondit : \rep{2}}
+  Tu le verras en Paradis !
+\end{verse}
+
+\endsong
