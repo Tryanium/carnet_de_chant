@@ -1,8 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{La maladie d'amour}
-  [by={Michel Sardou},cover={la-maladie-d-amour},album={La maladie d'amour},%
-  url={http://michelsardou.artiste.universalmusic.fr/site/}]
+  [by={Michel Sardou},album={La maladie d'amour}]
 
   \cover
   \capo{1}
