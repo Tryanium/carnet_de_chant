@@ -1,0 +1,46 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les rois du monde}
+  [by={Roméo et Juliette}]
+
+
+\begin{verse}
+  \[D]Les rois du monde\[A] vivent au sommet
+  \[Em]Ils ont la plus belle vue\[Bm] mais y'a un mais
+  \[G]Ils ne savent pas ce qu'on\[D] pense d'eux en bas
+  \[Em]Ils ne savent pas qu'ici\[A] c'est nous les rois
+\end{verse}
+
+\begin{verse*}
+  Les rois du monde font tout ce qu'ils veulent
+  Ils ont du monde autour d'eux mais ils sont seuls
+  Dans leurs châteaux là-haut ils s'ennuient
+  Pendant qu'en bas nous on danse toute la nuit
+\end{verse*}
+
+\begin{chorus}
+  \[Dm]Nous on fait l'\[Bb]amour on vit la\[C] vie
+  Jour après\[A] jour nuit après\[Dm] nuit
+  À quoi ça\[Bb] sert d'être sur la\[C] terre
+  Si c'est pour\[A] faire nos vies à\[Dm] genoux
+  On sait que le\[Bb] temps c'est comme le\[C] vent
+  De vivre\[A] y'a que ça d'impor\[Dm]tant
+  On se fout pas\[Bb] mal de la mo\[C]rale
+  On sait bien\[A] qu'on fait pas de mal
+\end{chorus}
+
+\begin{verse}
+  \[D]Les rois du monde\[A] ont peur de tout
+  \[Em]C'est qu'ils confondent les\[Bm] chiens et les loups
+  \[G]Ils font des pièges où ils\[D] tomberont un jour
+  \[Em]Ils se protègent de tout\[A] même de l'amour
+\end{verse}
+
+\begin{verse*}
+  Les rois du monde se battent entre eux
+  C'est qu'y a d'la place mais pour un pas pour deux
+  Et nous en bas leur guerre on la f'ra pas
+  On sait même pas pourquoi tout ça c'est jeux de rois
+\end{verse*}
+
+\endsong
