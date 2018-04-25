@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{1}
 \beginsong{Une belle histoire}
-  [by={Michel Fugain},cover={michel-fugain-et-le-big-bazar},album={Michel Fugain et Le Big Bazar}]
+  [by={Michel Fugain},album={Michel Fugain et Le Big Bazar}]
 
   \cover
   \gtab*{Cmaj7}{X32000}
@@ -41,7 +41,7 @@
     Elle descendait dans le midi, le midi
     Ils se sont quittés au bord du matin
     Sur l'autoroute des vacances
-    C'était fini le jour de chance	
+    C'était fini le jour de chance
     Ils reprirent alors chacun leur chemin
     Saluèrent la providence en se faisant un signe de la main
   \end{verse}
