@@ -1,0 +1,52 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Opium}
+  [by={Casse pipe}]
+
+\echo{Couplet: Dm/A tout du long}
+
+\begin{verse}
+  Dans le port de Saïgon
+  il est une jonque chinoise
+  Mystérieuse et sournoise
+  Dont nul ne connaît le nom.
+  Et le soir dans l'entrepont,
+  Quand la nuit se fait complice
+  Les Européens se glissent
+  Cherchant des coussins profonds.
+\end{verse}
+
+\begin{chorus}
+  Op\[Dm]ium, poison de r\[A]êve
+  Fumée qui monte au c\[Dm]iel,
+  C'est t\[Gm]oi qui nous él\[F]ève
+  Au parad\[E]is artific\[A]iel.
+  je v\[Dm]ois le doux vis\[A]age
+  Les yeux de mon aim\[Dm]ée,
+  Parf\[Gm]ois j'ai son i\[F]mage
+  Dans un nua\[E]ge de fum\[Dm]ée.
+\end{chorus}
+
+\begin{verse}
+  Et le soir au port falot
+  Les lanternes qui se voilent
+  Semblent de petites étoiles
+  Qui scintillent tour à tour.
+  Et parfois dans leur extase
+  Au gré de la fumée grise,
+  Le fumeur se représente
+  Ses plus beaux rêves d'amour.
+\end{verse}
+
+\begin{verse}
+  Puisqu'on dit que le bonheur
+  N'existe pas sur la terre,
+  Puisse l'aile de nos chimères
+  Un jour nous porter ailleurs
+  Au paradis enchanteur
+  Plein de merveilleux mensonges
+  Où dans l'ivresse de mes songes
+  J'ai laissé prendre mon cœur.
+\end{verse}
+
+\endsong
