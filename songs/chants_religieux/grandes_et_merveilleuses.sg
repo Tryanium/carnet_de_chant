@@ -1,0 +1,25 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Grandes et merveilleuses}
+  [by={Stuart Dauerman}]
+
+
+\begin{verse*}
+  \[Em]Grandes et m\[Am]erveilleuses\[Em] sont tou\[Am]tes tes oeuvres
+  O\[Em] Seig\[Am/F#]neur notre D\[Em]ieu tout-\[B7]puissant
+  \[Em]Juste et v\[Am]éritable\[Em] dans to\[Am]ute ta volont\[Em]é
+  Toi le r\[Bm]oi éter\[Em]nel.\[E7]
+  \[Am]Qui s\[D]ur la t\[G]erre et dans le\[C] ciel \[Am/F#]est semblable à\[B7] toi ?
+\end{verse*}
+
+\begin{verse*}
+  \[Am]Tu \[D7]règnes \[G]sur tout l´uni\[C]vers, D\[Am]ieu d´Isr\[B7]aël
+  \[Em]Un jour d\[Am]evant toi\[Em] tout genou fléchi\[Am]ra
+  T\[Em]oute l\[Am/F#]angue te b\[Em]énira\[B7]
+  \[Em]Allél\[Am]uia,\[Em] allél\[Am]uia, a\[Em]llél\[Bm]uia, am\[Em]en.
+  
+  \echo{B7 Em D G Am Em B7 Em \rep{2}}
+  Laï, laï, laï, laï, laï, laï, laï, ...
+\end{verse*}
+
+\endsong
