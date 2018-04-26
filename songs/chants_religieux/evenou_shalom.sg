@@ -1,0 +1,35 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Evenou Shalom}
+  [by={Inconnu}]
+
+\begin{chorus}
+  Evenou s\[Am]halom alerhem !
+  Evenou s\[Dm]halom alerhem !
+  Evenou s\[E]halom al\[Am]erhem !
+  Evenou s\[B7]halom, shalom, shalom a\[Am]lerhem !
+\end{chorus}
+
+\echo{Mêmes accords}
+
+\begin{verse}
+  Nous vous annonçons la paix. \rep{3}
+  Nous vous annonçons la paix, la paix, la paix de Jésus !
+\end{verse}
+
+\begin{verse}
+  Nous vous annonçons la joie. \rep{3}
+  Nous vous annonçons la joie, la joie, la joie de Jésus !
+\end{verse}
+
+\begin{verse}
+  Nous vous annonçons l'amour. \rep{3}
+  Nous vous annonçons l'amour, l'amour, l'amour de Jésus !
+\end{verse}
+
+\begin{verse}
+  Nous vous annonçons la paix,... la joie,... l'amour.
+  Nous vous annonçons la paix, la joie, l'amour de Jésus !
+\end{verse}
+
+\endsong
