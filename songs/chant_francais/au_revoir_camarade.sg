@@ -1,0 +1,20 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Au revoir camarade}
+  [by={Folklore}]
+
+\begin{verse*}
+  Au revoir camarade
+  Au rev\[Dm]oir camarade,
+  Que le Seig\[F]neur te prot\[Dm]ège
+  Sur la r\[Gm]oute où veillera ton \[Dm]Ange,
+\end{verse*}
+
+\begin{verse*}
+  Que la \[Gm]Vierge te montre
+  Le che\[Dm]min des étoiles,
+  Où nous nous ret\[Gm]rouverons
+  Dem\[Dm]ain ! \rep{2}
+\end{verse*}
+
+\endsong

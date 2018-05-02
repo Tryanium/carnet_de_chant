@@ -2,10 +2,10 @@
 \songcolumns{2}
 
 \beginsong{Cité cap}
-  [by={Amplitude},cover={amplitubes},album={Amplitubes}]
+  [by={Amplitude},album={Amplitubes}]
 
   \cover
-
+  \capo{4}
   \gtab{Am}{X02210}
   \gtab{Dm}{XX0231}
   \gtab{E}{022100}
@@ -14,82 +14,75 @@
   \gtab{F}{1:022100}
 
   \beginverse*
-    \nolyrics{\[Am Am Am Am]}
-    \nolyrics{\[Dm Dm Dm E]}
+    \nolyrics{\[Am Dm E]}
   \endverse
 
   \beginverse
-    Au c\oe ur du désert
+    A\[Am]u c\oe ur du désert
     La caravane
     Soulève la poussière
     Sous l’oiseau qui plane
   \endverse
 
   \beginverse*
-    Un nouveau départ
+    U\[Dm]n nouveau départ
     Une destination
     Le même étendard
-    Une seule direction
+    U\[E]ne seule direction
   \endverse
 
   \beginverse*
-    Toi tu te soucies
+    T\[Am]oi tu te soucies
     De ta planète
     Car tu ne veux pas
     La laisser pourrir
   \endverse
 
   \beginverse*
-    Tu veux réagir
+    T\[Dm]u veux réagir
     Maintenant ou jamais
     Ça te fait souffrir
-    De voir comme elle est
+    D\[E]e voir comme elle est
   \endverse
 
   \beginchorus
-    \musicnote{\nolyrics{\[F G Am Am]}}
-    Tu sais qu’t’es pas seul sur terre
-    Ensemble on peut changer les choses
-    \musicnote{\nolyrics{\[F G C C]}}
-    Il suffit seulement qu’on ose
+    \[F]Tu sais qu’t’es \[G]pas seul \[Am]sur terre \[G]
+    \[F]Ensemble on \[G]peut chang\[Am]er les ch\[G]oses
+    \[F]Il suffit seul'm\[G]ent qu’on \[C]ose
   \endchorus
 
   \beginchorus
-    \musicnote{\nolyrics{\[Am Dm/E]}}
-    Si t’es cap de changer le monde
-    \musicnote{\nolyrics{\[Am Dm/E]}}
-    Si t’es cap de défier les secondes
-    \musicnote{\nolyrics{\[Am Dm/E]}}
-    Si t’es cap de changer d’onde
-    \musicnote{\nolyrics{\[C G/G\shrp]}}
-    Alors t’es prêt à faire le tour du monde
+    C\[Am]itéCap de\[Dm] changer le m\[E]onde
+    C\[Am]itéCap de\[Dm] défier les se\[E]condes
+    C\[Am]itéCap de\[Dm] changer d’o\[E]nde
+    A\[C]lors t’es prêt à faire l\[G]e tour du mon\[G#]de
   \endchorus
 
   \beginverse
-    Au lever du jour
+    A\[Am]u lever du jour
     L’orage est passé
     Au loin les deux tours
     Qui nous ont guidé
   \endverse
 
   \beginverse*
-    Nous mettons le cap
+    N\[Dm]ous mettons le cap
     Vers la cité
     La prochaine étape
-    De l’odyssée
+    D\[E]e l’odyssée
   \endverse
 
   \beginverse*
-    Et toi tu souris
+    E\[Am]t toi tu souris
     Face aux obstacles
     Que t’offre la vie
     Comme un miracle
   \endverse
 
   \beginverse*
-    Il faut affronter
+    I\[Dm]l faut affronter
     Les difficultés
     On ressort plus fort
-    De tous nos efforts
+    D\[E]e tous nos efforts
   \endverse
 \endsong
