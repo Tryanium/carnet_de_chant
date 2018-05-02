@@ -1,0 +1,28 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Canon de la paix}
+  [by={Tradition}]
+
+
+\echo{
+Pom pom pom pom pom
+Pom pom pom pom pom}
+
+\echo{
+La la la la la la
+La la la la la la}
+
+\begin{verse}
+  Ecoutez, le temps viendra,
+  Les hommes un jour sauront la Vérité,
+  Le lion s'étendra près de l'agneau.
+\end{verse}
+
+\begin{verse}
+  Et nous fondrons des piques pour des faux
+  Et des sabres pour des herses.
+  La paix sera notre combat,
+  Faites que ce temps vienne.
+\end{verse}
+
+\endsong

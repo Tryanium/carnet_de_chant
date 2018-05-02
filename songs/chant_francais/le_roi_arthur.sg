@@ -1,0 +1,54 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le roi Arthur}
+  [by={Folklore}]
+
+
+\begin{verse}
+  Le roi Arthur avait trois fils,
+  Quel supplice,
+  Mais c'était un excellent roi,
+  Oui ma foi.
+  Par lui ses fils furent chassés,
+  Oui chassés à coups de pied,
+  Pour n'avoir pas voulu chanter !
+\end{verse}
+
+\begin{chorus}
+  Pour n'avoir pas voulu chanter, ohé \rep{2}
+  Par lui ses fils furent chassés,
+  Oui chassés à coups de pied,
+  Pour n'avoir pas voulu chanter !
+\end{chorus}
+
+\begin{verse}
+  Le premier fils se fit meunier,
+  C'est bien vrai.
+  Le second se fit tisserand,
+  Oui vraiment.
+  Le troisième se fit commis
+  D'un tailleur de son pays,
+  Un rouleau de drap sous son bras...
+\end{verse}
+
+\begin{verse}
+  Le premier fils volait du blé,
+  C'est bien laid.
+  Le second fils volait du fil,
+  C'est bien vil.
+  Le troisièm' qu'était tailleur
+  Volait du drap à toute heure
+  Pour en habiller ses deux soeurs.
+\end{verse}
+
+\begin{verse}
+  Dans l'écluse le premier s'noya,
+  Ha, ha, ha...
+  A son fil le second s'pendit,
+  Hi, hi, hi...
+  Et le diabl' mis en furie
+  Emporta le p'tit commis
+  Un rouleau de drap sous son bras !
+\end{verse}
+
+\endsong
