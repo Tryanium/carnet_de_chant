@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Grandes et merveilleuses}
-  [by={Stuart Dauerman}]
+  [by={Stuart\ Dauerman}]
 
 
 \begin{verse*}
@@ -17,7 +17,7 @@
   \[Em]Un jour d\[Am]evant toi\[Em] tout genou fléchi\[Am]ra
   T\[Em]oute l\[Am/F#]angue te b\[Em]énira\[B7]
   \[Em]Allél\[Am]uia,\[Em] allél\[Am]uia, a\[Em]llél\[Bm]uia, am\[Em]en.
-  
+
   \echo{B7 Em D G Am Em B7 Em \rep{2}}
   Laï, laï, laï, laï, laï, laï, laï, ...
 \end{verse*}

@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{La prière Scout}
-  [by={Saint Ignace de Loyola}]
+  [by={Saint\ Ignace\ de\ Loyola}]
 
 \begin{verse*}
   Seigneur Jésus apprenez-nous à être généreux,
@@ -13,5 +13,8 @@
   Que celle de savoir
   Que nous faisons votre sainte volonté.
 \end{verse*}
+
+
+\includegraphics[scale=0.1]{../../img/croix.png}
 
 \endsong

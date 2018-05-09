@@ -1,8 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{La vie d'aventurier}
-  [by={Le Donjon\ de\ Naheulbeuk},album={T'as pas le niveau},%
-  url={http://www.penofchaos.com/warham/donjon-groupe.htm}]
+  [by={Le\ Donjon\ de\ Naheulbeuk},album={T'as pas le niveau}]
 
   \cover
   \gtab{G}{320003}

@@ -36,8 +36,7 @@ template:
 authors: # Analyse des auteurs
   separators:
   - and
-  ignore:
-  - unknown
+  - et
   after:
   - by
 
@@ -58,22 +57,22 @@ titles: # Analyse des titres
   - Mon
   - Un
 content:
-  - section: "Chants français"
+  - part*: "Chants français"
   - sort:
       key: ["by", "title"]
       content:
         - "chant_francais/*.sg"
-  - section: "Chants étrangers"
+  - part*: "Chants étrangers"
   - sort:
       key: ["by", "title"]
       content:
         - "chant_anglais/*.sg"
-  - section: "Chants scouts"
+  - part*: "Chants scouts"
   - sort:
       key: ["by", "title"]
       content:
         - "chant_scout/*.sg"
-  - section: "Chants religieux"
+  - part*: "Chants religieux"
   - sort:
       key: ["by", "title"]
       content:

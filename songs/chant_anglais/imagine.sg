@@ -1,7 +1,7 @@
 \selectlanguage{english}
 \songcolumns{2}
 \beginsong{Imagine}
-  [by={John Lennon},cover={imagine}]
+  [by={John\ Lennon},cover={imagine}]
 
   \cover
   \gtab{C}{X32010}
