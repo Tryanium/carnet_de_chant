@@ -9,7 +9,7 @@ chords: # Options musicales
   show: yes
   diagramreminder: important
   diagrampage: all
-  repeatchords: no
+  repeatchords: yes
   lilypond: no
   tablatures: no
   instrument: guitar

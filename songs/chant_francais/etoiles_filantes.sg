@@ -13,7 +13,6 @@
   \utab{Em}{0432}
   \utab{F}{2010}
 
-  \lilypond{Etoiles_filantes-1}
 
   \begin{verse}
     Si je m'\[Am]arrête un instant
@@ -46,7 +45,6 @@
     On se \[Em]dit que l'bon temps passe finale\[F]ment \dots comme une étoile fi\[Am]lante
   \end{chorus}
 
-  \lilypond{Etoiles_filantes-2}
 
   \begin{repeatedchords}
     \begin{verse}
