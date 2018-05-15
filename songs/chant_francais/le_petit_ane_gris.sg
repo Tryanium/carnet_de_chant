@@ -52,4 +52,10 @@
     Vous racontait l'histoire, d'un petit âne gris \rep{2}
   \end{verse}
 
+  \begin{center}
+   \vspace{1cm}
+    \includegraphics[scale=0.45]{../../img/ane.jpg}
+    \vspace{1cm}
+  \end{center}
+
 \endsong

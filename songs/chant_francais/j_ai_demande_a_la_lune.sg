@@ -51,4 +51,10 @@
 
   \textnote{Repeat verse 2}
 
+  \begin{center}
+  \vspace{1cm}
+    \includegraphics[scale=0.3]{../../img/moon.png}
+    \vspace{1cm}
+  \end{center}
+
 \endsong

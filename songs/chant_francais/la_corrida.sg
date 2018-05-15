@@ -102,4 +102,10 @@
     \end{verse*}
   \end{repeatedchords}
 
+  \begin{center}
+   \vspace{1cm}
+    \includegraphics[scale=0.2]{../../img/taureau.png}
+    \vspace{1cm}
+  \end{center}
+
 \endsong

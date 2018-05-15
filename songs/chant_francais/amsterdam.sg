@@ -1,5 +1,5 @@
 \selectlanguage{french}
-\songcolumns{3}
+\songcolumns{2}
 \beginsong{Amsterdam}
   [by={Jacques\ Brel},album={Amsterdam}]
 
@@ -99,5 +99,11 @@
     Sur les femmes infidèles
     Dans le port d'Amsterdam \rep{2}
   \end{verse*}
+
+  \begin{center}
+   \vspace{1cm}
+    \includegraphics[scale=0.35]{../../img/amsterdam.jpg}
+    \vspace{1cm}
+  \end{center}
 
 \endsong

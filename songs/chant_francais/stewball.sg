@@ -3,6 +3,7 @@
 \beginsong{Stewball}
   [by={Hugues\ Aufray},album={La Terre est si belle}]
 
+
   \cover
   \gtab{D}{XX0232}
   \gtab{G}{320003}
@@ -60,5 +61,11 @@
     Il était mon idole
     Et moi j'avais dix ans
   \end{verse}
+  
+  \begin{center}
+   \vspace{1cm}
+    \includegraphics[scale=0.24]{../../img/cheval.png}
+    \vspace{1cm}
+  \end{center}
 
 \endsong
