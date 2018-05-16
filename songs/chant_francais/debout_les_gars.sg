@@ -59,9 +59,9 @@
 
 
   \begin{center}
-   \vspace{1cm}
+\vspace*{\fill}
     \includegraphics[scale=0.4]{../../img/debout.jpg}
-    \vspace{1cm}
+\vspace*{\fill}
   \end{center}
 
 \endsong

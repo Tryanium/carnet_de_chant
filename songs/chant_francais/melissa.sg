@@ -1,5 +1,5 @@
 \selectlanguage{french}
-\songcolumns{2}
+\songcolumns{3}
 \beginsong{Mélissa}
   [by={Julien\ Clerc},album={Ce n'est rien}]
 
@@ -83,5 +83,11 @@
     Mais si jamais Mélissa sait ça
     Là, c'est moi qui vous tue
   \end{verse*}
+
+  \begin{center}
+\vspace*{\fill}
+   \includegraphics[scale=0.12]{../../img/ibiza.jpg}
+\vspace*{\fill}
+  \end{center}
 
 \endsong

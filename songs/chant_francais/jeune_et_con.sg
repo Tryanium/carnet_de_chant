@@ -76,9 +76,9 @@
 
 \medbreak
   \begin{center}
-  \vspace{1cm}
+\vspace*{\fill}
     \includegraphics[scale=0.6]{../../img/veillee-2.png}
-    \vspace{1cm}
+\vspace*{\fill}
   \end{center}
 
 \endsong

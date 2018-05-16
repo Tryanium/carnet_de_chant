@@ -100,9 +100,9 @@
   \end{verse*}
 
   \begin{center}
-   \vspace{1cm}
+\vspace*{\fill}
     \includegraphics[scale=1.8]{../../img/auvergnat.png}
-    \vspace{1cm}
+\vspace*{\fill}
   \end{center}
 
 \endsong

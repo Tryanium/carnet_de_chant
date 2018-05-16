@@ -37,9 +37,9 @@ chantait gaieme\[Gm]nt sur \[C] le chemi\[F]n Nag\[Gm]awick\[Dm]a Nag\[A7]awick\
 \end{verse}
 
 \begin{center}
-\vspace{1cm}
+\vspace*{\fill}
   \includegraphics[scale=0.5]{../../img/indien.png}
-  \vspace{1cm}
+\vspace*{\fill}
 \end{center}
 
 

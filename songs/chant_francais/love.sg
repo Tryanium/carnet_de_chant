@@ -28,8 +28,8 @@ Avec cette chanson, un peu de liberté.
 \end{verse}
 
 \begin{center}
-\vspace{1cm}
- \includegraphics[scale=0.7]{../../img/guitare.png}
- \vspace{1cm}
+\vspace*{\fill}
+ \includegraphics[scale=0.4]{../../img/guitare.jpg}
+\vspace*{\fill}
 \end{center}
 \endsong

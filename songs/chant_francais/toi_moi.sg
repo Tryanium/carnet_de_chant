@@ -68,9 +68,9 @@
   \end{repeatedchords}
 
   \begin{center}
-   \vspace{1cm}
+\vspace*{\fill}
     \includegraphics[scale=0.45]{../../img/ronde.jpg}
-    \vspace{1cm}
+\vspace*{\fill}
   \end{center}
 
 \endsong

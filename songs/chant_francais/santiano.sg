@@ -59,9 +59,9 @@
   \end{chorus}
 
   \begin{center}
-   \vspace{1cm}
+\vspace*{\fill}
     \includegraphics[scale=0.24]{../../img/santiano.png}
-    \vspace{1cm}
+\vspace*{\fill}
   \end{center}
 
 \endsong

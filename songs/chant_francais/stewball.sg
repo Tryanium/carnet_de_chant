@@ -61,11 +61,11 @@
     Il était mon idole
     Et moi j'avais dix ans
   \end{verse}
-  
+
   \begin{center}
-   \vspace{1cm}
+\vspace*{\fill}
     \includegraphics[scale=0.24]{../../img/cheval.png}
-    \vspace{1cm}
+\vspace*{\fill}
   \end{center}
 
 \endsong

@@ -1,5 +1,5 @@
 \selectlanguage{french}
-\songcolumns{2}
+\songcolumns{3}
 \beginsong{Le pénitencier}
   [by={Johnny\ Hallyday},album={Le pénitencier}]
 
@@ -53,9 +53,9 @@
   \end{verse}
 
   \begin{center}
-  \vspace{1cm}
-   \includegraphics[scale=0.5]{../../img/prison.png}
-   \vspace{1cm}
+\vspace*{\fill}
+   \includegraphics[scale=0.3]{../../img/prison.png}
+\vspace*{\fill}
   \end{center}
 
 \endsong
