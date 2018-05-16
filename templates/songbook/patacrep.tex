@@ -1,0 +1,152 @@
+%!- Copyright (C) 2014 The Patacrep team (www.patacrep.com)
+%!-
+%!- This program is free software; you can redistribute it and/or
+%!- modify it under the terms of the GNU General Public License
+%!- as published by the Free Software Foundation; either version 2
+%!- of the License, or (at your option) any later version.
+%!-
+%!- This program is distributed in the hope that it will be useful,
+%!- but WITHOUT ANY WARRANTY; without even the implied warranty of
+%!- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%!- GNU General Public License for more details.
+%!-
+%!- You should have received a copy of the GNU General Public License
+%!- along with this program; if not, write to the Free Software
+%!- Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+%!- MA  02110-1301, USA.
+%!-
+%!- The latest version of this program can be obtained from
+%!- https://github.com/patacrep/
+
+(* variables *)
+schema:
+  type: //rec
+  optional:
+    version: //str
+  required:
+    subtitle: //str
+    url: //str
+    email: //str
+    picture: //str
+    picturecopyright: //str
+    footer: //str
+    color:
+      type: //rec
+      required:
+        songlink: //str
+        hyperlink: //str
+    bgcolor:
+      type: //rec
+      required:
+        songnumber: //str
+        note: //str
+        index: //str
+
+default:
+  en:
+    subtitle: ""
+    version: ""
+    url: "http://www.patacrep.com"
+    email: crep@team-on-fire.com
+    picture: img/treble_a
+    picturecopyright: "Dbolton \\url{http://commons.wikimedia.org/wiki/User:Dbolton}"
+    footer: "Generated using Songbook (\\url{http://www.patacrep.com})"
+    color:
+      songlink: 4e9a06
+      hyperlink: 204a87
+    bgcolor:
+      songnumber: D1E4AE
+      note: D1E4AE
+      index: D1E4AE
+  fr:
+    footer: "Créé avec le programme Songbook (\\url{http://www.patacrep.com})"
+description:
+  en:
+    subtitle: "Subtitle"
+    version: "Version"
+    url: "Website"
+    email: "Email"
+    picture: "Cover picture"
+    picturecopyright: "Copyright for the cover picture"
+    footer: "Footer"
+    color:
+      songlink: "Songlink color"
+      hyperlink: "Hyperlink color"
+    bgcolor:
+      songnumber: "Number Shade"
+      note: "Note Shade"
+      index: "Index Shade"
+  fr:
+    subtitle: "Sous-titre"
+    version: "Version"
+    url: "Site web"
+    email: "Adresse électronique"
+    picture: "Image de couverture"
+    picturecopyright: "Copyright pour l'image de couverture"
+    footer: "Pied de page"
+    color:
+      songlink: "Couleur des liens vers les chants"
+      hyperlink: "Couleurs des liens hypertextes"
+    bgcolor:
+      songnumber: "Couleur des numéros"
+      note: "Couleur des notes"
+      index: "Couleur d'index"
+(* endvariables -*)
+
+(*- extends "default.tex" -*)
+
+(* block songbookpackages *)
+
+\usepackage[
+    (* for option in _bookoptions *)((option)),
+    (* endfor *)
+    ]{crepbook}
+(* endblock *)
+
+(* block songbookpreambule *)
+\usepackage[
+     a4paper % paper size
+     ,includeheadfoot % include header and footer into text size
+     ,hmarginratio=1:1 % ratio between inner and outer margin (default)
+     ,outer=1.8cm % outer margin (right)
+     ,vmarginratio=1:1 % ratio between top and bottom margin
+     ,bmargin=1.3cm % bottom margin
+     ]{geometry}
+
+(( super() ))
+
+\pagestyle{empty}
+
+(*- set template_var = _template["patacrep.tex"] -*)
+
+\definecolor{SongNumberBgColor}{HTML}{(( template_var.bgcolor.songnumber ))}
+\definecolor{NoteBgColor}{HTML}{(( template_var.bgcolor.note ))}
+\definecolor{IndexBgColor}{HTML}{(( template_var.bgcolor.index ))}
+
+\renewcommand{\snumbgcolor}{SongNumberBgColor}
+\renewcommand{\notebgcolor}{NoteBgColor}
+\renewcommand{\idxbgcolor}{IndexBgColor}
+
+\definecolor{tango-green-3}{HTML}{(( template_var.color.songlink ))}
+\definecolor{tango-blue-3}{HTML}{(( template_var.color.hyperlink ))}
+\usepackage[
+    bookmarks,
+    bookmarksopen,
+    hyperfigures=true,
+    colorlinks=true,
+    linkcolor=tango-green-3,
+    urlcolor=tango-blue-3,
+    unicode=true
+    ]{hyperref}
+
+
+\subtitle{(( template_var.subtitle|escape_specials ))}
+(* if template_var.version -*)
+    \version{(( template_var.version ))}
+(* endif *)
+\mail{(( template_var.email|escape_url ))}
+\web{(( template_var.url|escape_url ))}
+\picture{(( template_var.picture ))}
+\picturecopyright{(( template_var.picturecopyright ))}
+\footer{(( template_var.footer ))}
+(* endblock *)

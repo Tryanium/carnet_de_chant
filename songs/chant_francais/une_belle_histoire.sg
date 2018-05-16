@@ -1,5 +1,5 @@
 \selectlanguage{french}
-\songcolumns{1}
+\songcolumns{2}
 \beginsong{Une belle histoire}
   [by={Michel\ Fugain},album={Michel Fugain et Le Big Bazar}]
 
@@ -52,5 +52,13 @@
     C'est un beau roman, c'est une belle histoire
     C'est une romance d'aujourd'hui
   \end{verse}
+
+
+  \begin{center}
+  \vspace*{\fill}
+    \includegraphics[scale=0.6]{../../img/livre.png}
+  \vspace*{\fill}
+  \end{center}
+
 
 \endsong

@@ -61,5 +61,12 @@
     Tous les oiseaux du point du jour
     Chantent l'amour
   \end{verse*}
+  
+  \begin{center}
+  \vspace*{\fill}
+    \includegraphics[scale=0.3]{../../img/elysee.jpg}
+  \vspace*{\fill}
+  \end{center}
+
 
 \endsong

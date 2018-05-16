@@ -42,4 +42,10 @@
 
   \textnote{\Chorus}
 
+  \begin{center}
+  \vspace*{\fill}
+    \includegraphics[scale=0.35]{../../img/boite.png}
+  \vspace*{\fill}
+  \end{center}
+
 \endsong

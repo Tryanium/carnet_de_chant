@@ -35,7 +35,10 @@
     Les belles dames \dots
   \end{verse}
 
+  \begin{center}
+  \vspace{3cm}
+   \includegraphics[scale=1.2]{../../img/avignon.jpg}
+  \vspace{3cm}
+  \end{center}
+
 \endsong
-\beginscripture{}%
-  La chanson continue en citant des noms de profession.%
-\endscripture%

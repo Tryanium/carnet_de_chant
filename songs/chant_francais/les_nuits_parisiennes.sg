@@ -43,4 +43,10 @@
     Et j'voudrais vivre des soirées belles à Sienne
   \end{verse}
 
+  \begin{center}
+  \vspace*{\fill}
+    \includegraphics[scale=0.2]{../../img/paris.jpg}
+  \vspace*{\fill}
+  \end{center}
+
 \endsong

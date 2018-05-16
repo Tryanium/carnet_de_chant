@@ -52,4 +52,11 @@
     Elle m'a dit
   \end{verse*}
 
+  \begin{center}
+  \vspace*{\fill}
+    \includegraphics[scale=0.4]{../../img/colline.jpg}
+  \vspace*{\fill}
+  \end{center}
+
+
 \endsong

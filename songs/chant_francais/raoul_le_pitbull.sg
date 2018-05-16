@@ -121,4 +121,11 @@
     Raoul sera votre compagnon \dots
   \end{verse*}
 
+
+  \begin{center}
+  \vspace*{\fill}
+   \includegraphics[scale=0.6]{../../img/pitbull.jpg}
+  \vspace*{\fill}
+  \end{center}
+
 \endsong

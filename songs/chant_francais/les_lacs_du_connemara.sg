@@ -9,7 +9,6 @@
   \gtab{C}{332010}
   \gtab{Dm}{XX0231}
   \gtab{Gm}{1:022000}
-  \gtab{D7}{XX0212}
   \ifrepeatchords%
   \gtab{Gm7}{1:022030}
   \gtab{G#}{3:022100}
@@ -30,8 +29,9 @@
   \gtab{A}{X02220}
   \gtab{Bm}{2:X02210}
   \gtab{Em}{022000}
-  \gtab{B&7}{1:X02020}
-  \gtab{E&m}{001342}
+  \gtab*{D7}{XX0212}
+  \gtab*{B&7}{1:X02020}
+  \gtab*{E&m}{001342}
 
   \begin{verse}
     \[F]Terre brûlée, au vent des \[B&]landes de \[F]pierre
@@ -109,5 +109,11 @@
     On n'accepte \[F#]pas, la paix des Ga\[F]llois
     \[B&m]Ni celle des \[E&m]rois d'Angle\[C#]te\[G#7]rre
   \end{chorus}
+
+  \begin{center}
+  \vspace*{\fill}
+    \includegraphics[scale=1.8]{../../img/connemara.jpg}
+  \vspace*{\fill}
+  \end{center}
 
 \endsong

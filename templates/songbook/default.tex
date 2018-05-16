@@ -1,0 +1,109 @@
+%!- Copyright (C) 2014 The Patacrep team (www.patacrep.com)
+%!-
+%!- This program is free software; you can redistribute it and/or
+%!- modify it under the terms of the GNU General Public License
+%!- as published by the Free Software Foundation; either version 2
+%!- of the License, or (at your option) any later version.
+%!-
+%!- This program is distributed in the hope that it will be useful,
+%!- but WITHOUT ANY WARRANTY; without even the implied warranty of
+%!- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%!- GNU General Public License for more details.
+%!-
+%!- You should have received a copy of the GNU General Public License
+%!- along with this program; if not, write to the Free Software
+%!- Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+%!- MA  02110-1301, USA.
+%!-
+%!- The latest version of this program can be obtained from
+%!- https://github.com/patacrep/
+
+(* variables *)
+schema:
+  type: //rec
+  required:
+    title:
+      type: //str
+    author:
+      type: //str
+  optional:
+    classoptions:
+      type: //arr
+      contents: //str
+default:
+  en:
+    title: "Guitar songbook"
+    author: "The Patacrep Team"
+  fr:
+    title: "Recueil de chansons pour guitare"
+    author: "L'équipe Patacrep"
+description:
+  en:
+    title: "Title"
+    author: "Author"
+    classoptions: "LaTeX class options"
+  fr:
+    title: "Titre"
+    author: "Auteur"
+    classoptions: "Options de la classe LaTeX"
+(* endvariables -*)
+
+(*- extends "songs.tex" -*)
+(*- set indexes = "titleidx,authidx" -*)
+(*- set template_var = _template["default.tex"] -*)
+
+(* block documentclass *)
+\documentclass[
+    (* for option in template_var.classoptions *)
+    ((option)),
+    (* endfor *)
+    ]{article}
+(* endblock *)
+
+
+(* block songbookpreambule *)
+(( super() ))
+
+\usepackage{chords}
+
+\title{(( template_var.title|escape_specials() ))}
+\author{(( template_var.author|escape_specials() ))}
+
+\newindex{titleidx}{((filename))_title}
+\newauthorindex{authidx}{((filename))_auth}
+
+(* for prefix in titleprefixwords -*)
+   \titleprefixword{((prefix))}
+(* endfor*)
+(* for word in authors.ignore -*)
+   \authignoreword{((word))}
+(* endfor *)
+(* for word in authors.after -*)
+   \authbyword{((word))}
+(* endfor *)
+(* for word in authors.separators -*)
+   \authsepword{((word))}
+(* endfor *)
+
+\notenamesout{(( chords._notenames[0] ))}{(( chords._notenames[1] ))}{(( chords._notenames[2] ))}{(( chords._notenames[3] ))}{(( chords._notenames[4] ))}{(( chords._notenames[5] ))}{(( chords._notenames[6] ))}
+(* endblock *)
+
+(* block title *)
+\maketitle
+(* endblock *)
+
+(* block index *)
+\showindex{\songindexname}{titleidx}
+\showindex{\authorindexname}{authidx}
+(* endblock *)
+
+(* block chords *)
+% list of chords
+\ifdiagrampage
+   \phantomsection
+   \addcontentsline{toc}{section}{\chordlistname}
+   \chords
+\fi
+\setcounter{songnum}{1}%
+(* endblock *)
+

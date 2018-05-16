@@ -75,4 +75,11 @@
   \musicnote{\Chorus}
   \musicnote{\nolyrics{\[Em C D4 Em}}
   \musicnote{\nolyrics{\[Em C Bm Em}}
+
+  \begin{center}
+  \vspace*{\fill}
+   \includegraphics[scale=1.8]{../../img/homme.jpg}
+  \vspace*{\fill}
+  \end{center}
+
 \endsong
