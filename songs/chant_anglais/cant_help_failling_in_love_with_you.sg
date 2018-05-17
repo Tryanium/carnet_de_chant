@@ -3,37 +3,42 @@
 \beginsong{Can't help falling in love}
   [by={Elvis\ Presley}]
 
+\cover
+\capo{2}
 
-\echo{Intro : D A D}
 
+\begin{verse*}
+  \musicnote{\Intro: \nolyrics \[C G C G]}
+\end{verse*}
 
 \begin{verse}
-  \[D]Wise\[F#m] men sa\[Bm]y, only fo\[G]ols ru\[D]sh in\[A] \[A7]
-  but\[G] I ca\[A]n't h\[Bm]elp, f\[G]alling in l\[D]ove w\[A]ith y\[D]ou
-  \[D]Shall\[F#m] I sta\[Bm]y, would it be\[G] a s\[D]in\[A] \[A7]
-  If\[G] I ca\[A]n't h\[Bm]elp, f\[G]alling in l\[D]ove w\[A]ith y\[D]ou
+  \[C]Wise \[Em]men sa\[Am]y, only fo\[F]ols ru\[C]sh in\[G]
+  But \[F]I ca\[G]n't h\[Am]elp, f\[F]alling in l\[C]ove w\[G]ith y\[C]ou
+  \[C]Shall\[Em] I sta\[Am]y, would it be\[F] a\[C] s\[G]in
+  If \[F]I ca\[G]n't h\[Am]elp, f\[F]alling in l\[C]ove w\[G]ith y\[C]ou
 \end{verse}
 
 \begin{verse}
-  \[F#m]Like a river\[C#7] flows,\[F#m] surely to the\[C#7] sea
-  \[F#m]darling so it\[C#7] goes
-  \[F#m]some things\[B7] are meant to\[Em] be\[A]
+  \[Em]Like a river\[B7] flows,\[Em] surely to the\[B7] sea
+  \[Em]Darling so it\[B7] goes
+  \[Em]Some things\[A7] are meant to\[Dm] be\[G]
 \end{verse}
 
 \begin{verse}
-  \[D]Take\[F#m] my ha\[Bm]nd, take my wh\[G]ole li\[D]fe to\[A]o
-  for\[G] I ca\[A]n't h\[Bm]elp, f\[G]alling in l\[D]ove w\[A]ith y\[D]ou
+  \[C]Take \[Em]my ha\[Am]nd, take my wh\[F]ole li\[C]fe to\[G]o
+  For \[F]I ca\[G]n't h\[Am]elp, f\[F]alling in l\[C]ove w\[G]ith y\[C]ou
 \end{verse}
 
 \begin{verse*}
-  \[F#m]Like a river\[C#7] flows,\[F#m] surely to the\[C#7] sea
-  \[F#m]darling so it\[C#7] goes
-  \[F#m]some things\[B7] are meant to\[Em] be\[A]
+\[Em]Like a river\[B7] flows,\[Em] surely to the\[B7] sea
+\[Em]Darling so it\[B7] goes
+\[Em]Some things\[A7] are meant to\[Dm] be\[G]
 \end{verse*}
 
 \begin{verse*}
-  \[D]Take\[F#m] my ha\[Bm]nd, take my wh\[G]ole li\[D]fe to\[A]o
-  for\[G] I ca\[A]n't h\[Bm]elp, f\[G]alling in l\[D]ove w\[A]ith\[A7] you\[D]
+\[C]Take \[Em]my ha\[Am]nd, take my wh\[F]ole li\[C]fe to\[G]o
+For \[F]I ca\[G]n't h\[Am]elp, f\[F]alling in l\[C]ove w\[G]ith y\[C]ou
+For \[F]I ca\[G]n't h\[Am]elp, f\[F]alling in l\[C]ove w\[G]ith y\[C]ou
 \end{verse*}
 
 \endsong

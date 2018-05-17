@@ -3,6 +3,9 @@
 \beginsong{Les démons de minuit}
   [by={Emile\ et\ Images}]
 
+\gtab*{C#m}{3:002210}
+\gtab*{B7}{2:X02020}
+
 \begin{verse}
   \[A]Rue déserte, dernière cigarette plus rien ne\[C#m] bouge
   Juste un bar éclaire le comptoir d'un néon rouge
@@ -15,8 +18,9 @@
   M'entraînent jusqu'à l'insomnie... les fantômes de l'ennui
 \end{chorus}
 
+
 \begin{verse*}
- \echo{Em   D   Em   C   Am   G   Am  \rep{2}  Em}
+  \musicnote{\nolyrics \[Em   D   Em   C   Am   G   Am  \rep{2}  Em]}
 \end{verse*}
 
 \begin{verse}
@@ -31,8 +35,9 @@
   \[C]Ca met un peu de chal\[Am]eur au fond de mon cœu\[B7]r
 \end{verse}
 
+
 \begin{verse*}
-  \echo{Finale : Em   D   Em   C   Am   G   Am   Em}
+  \musicnote{Finale : \nolyrics \[Em   D   Em   C   Am   G   Am   Em]}
 \end{verse*}
 
 \endsong

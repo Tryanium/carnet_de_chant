@@ -6,10 +6,10 @@
 
   \cover
   \gtab{Am}{X02210}
-  \gtab{E7}{020100}
-  \gtab{A7}{X02020}
+  \gtab*{E7}{020100}
+  \gtab*{A7}{X02020}
   \gtab{Dm}{XX0231}
-  \gtab{G7}{320001}
+  \gtab*{G7}{320001}
   \gtab{C}{X32010}
   \gtab{E}{022100}
   \gtab{D}{XX0232}

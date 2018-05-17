@@ -5,10 +5,10 @@
 
   \cover
   \gtab{A}{X02220}
-  \gtab{F#m}{2:022000}
+  \gtab*{F#m}{2:022000}
   \gtab{E}{022100}
-  \gtab{Bm}{2:X02210}
-  \gtab{C#m}{4:X02210}
+  \gtab*{Bm}{2:X02210}
+  \gtab*{C#m}{4:X02210}
   \gtab{Dm}{XX0231}
   \gtab{Am}{X02210}
   \gtab{G}{320003}

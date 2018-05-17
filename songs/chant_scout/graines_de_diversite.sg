@@ -8,10 +8,10 @@
 
   \gtab{A}{X02220}
   \gtab{E}{022100}
-  \gtab{F#m}{2:022000}
+  \gtab*{F#m}{2:022000}
   \gtab{D}{XX0232}
   \gtab{Dm}{XX0231}
-  \gtab{D#}{6:X02220}
+  \gtab*{D#}{6:X02220}
 
   \beginverse
     \[A]Il y a la \[E]graine de l'ami\[F#m]tié \[D] \[E]

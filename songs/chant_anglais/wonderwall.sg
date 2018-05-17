@@ -1,12 +1,12 @@
 \selectlanguage{english}
-\songcolumns{1}
+\songcolumns{2}
 \beginsong{Wonderwall}
   [by={Oasis},album={Morning glory}]
 
   \cover
   \capo{2}
   \gtab*{Em7}{022033}
-  \gtab*{G}{320033}
+  \gtab{G}{320033}
   \gtab*{Dsus4}{XX0233}
   \gtab*{A7sus4}{X02033}
   \gtab*{C}{X32033}

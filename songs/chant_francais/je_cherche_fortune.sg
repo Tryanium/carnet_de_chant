@@ -3,7 +3,8 @@
 \beginsong{Je cherche fortune}
   [by={Folklore}]
 
-\cover
+\gtab*{b&}{XX3331}
+
 
 \begin{verse}
   Chez l' boulang\[F]er (bis)
@@ -19,10 +20,10 @@
 \begin{chorus}
   Non, c'est pas moi, c'est ma soeur
   Qu'a cassé la machine à vapeur
-  Ta gueule (ter)
+  Ta gueule \rep{2}
   \[F]Je cherche fortune!
   Autour du Chat No\[C]ir
-  Au cl\[Bb]air de la l\[F]une
+  Au cl\[B&]air de la l\[F]une
   A Montma\[C7]rtre, le s\[F]oir
 \end{chorus}
 

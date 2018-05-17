@@ -3,21 +3,22 @@
 \beginsong{Ma liberté}
   [by={Georges\ Moustaki}]
 
-\cover
+  \gtab*{Dm7}{XX0211}
+  \gtab*{G7}{320001}
 
 
 \begin{verse}
-  \[Am]  Ma liberté,
-  Long \[Dm7] temps, je t'ai gardée
-  \[G7]  Comme une perle  \[C / E7]  rare
-  \[Am]  Ma liberté, c'est  \[Dm]  toi qui m'a aidé
-  \[Am]  A larguer  \[G] les a\[Am]marres
-  \[C] Pour aller n'importe  \[F]  où
-  Pour aller jusqu'au  \[C]  bout
-  Des chemins de fortune \[Am]
-  \[F] Pour cueillir en rê\[C]vant
-  Une rose des  \[E7]  vents
-  Sur un rayon de  \[Am]  lune
+  \[Am]Ma liberté,
+  Long\[Dm7]temps, je t'ai gardée
+  \[G7]Comme une perle \[C/E7]rare
+  \[Am]Ma liberté, c'est \[Dm]toi qui m'a aidé
+  \[Am]A larguer  \[G]les a\[Am]marres
+  \[C]Pour aller n'importe \[F]où
+  Pour aller jusqu'au \[C]bout
+  Des chemins de fortune\[Am]
+  \[F]Pour cueillir en rê\[C]vant
+  Une rose des \[E7]vents
+  Sur un rayon de \[Am]lune
 \end{verse}
 
 \begin{verse}
@@ -57,15 +58,15 @@
   Lorsque, sans me méfier
   Les pieds et poings liés
   Je me suis laissé faire
-  \[F] Et je t'ai trahi
-  \[C] Pour une prison d'a \[E7]  mour
-  Et sa belle geô \[Am]  lière.
+  \[F]Et je t'ai trahi
+  \[C]Pour une prison d'a\[E7]mour
+  Et sa belle geô\[Am]lière.
 \end{verse}
 
 \begin{verse}
-  \[Dm] Et je t'ai trahi
-  \[Am] Pour une prison d'a \[D(S.A)] mour
-  Et sa  \[G] belle geô \[Am]  lière.
+  \[Dm]Et je t'ai trahi
+  \[Am]Pour une prison d'a\[D]mour
+  Et sa \[G]belle geô\[Am]lière.
 \end{verse}
 
 \endsong

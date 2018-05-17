@@ -6,11 +6,11 @@
   \cover
   \gtab{Am}{X02210}
   \gtab{G}{320003}
-  \gtab{E7}{020100}
+  \gtab*{E7}{020100}
   \gtab{F}{1:022100}
   \gtab{C}{X32010}
   \gtab{E}{022100}
-  \gtab{G7}{320001}
+  \gtab*{G7}{320001}
 
   \begin{verse}
     Vers les \[Am]docks où le poids et l'en\[G]nui

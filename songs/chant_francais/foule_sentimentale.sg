@@ -6,8 +6,8 @@
   \cover
   \gtab{Em}{022000}
   \gtab{Am}{X02210}
-  \gtab{D7}{XX0212}
-  \gtab{B7}{X21202}
+  \gtab*{D7}{XX0212}
+  \gtab*{B7}{X21202}
   \gtab{C}{X32010}
 
   \begin{verse}

@@ -7,14 +7,14 @@
   \capo{3}
   \gtab{C}{X32010}
   \gtab{G}{320003}
-  \gtab{E7}{020100}
+  \gtab*{E7}{020100}
   \gtab{Dm}{XX0231}
-  \gtab{A7}{X02020}
-  \gtab{G7}{320001}
-  \gtab{B7}{2:X02020}
+  \gtab*{A7}{X02020}
+  \gtab*{G7}{320001}
+  \gtab*{B7}{2:X02020}
   \gtab{Em}{022000}
   \gtab{Am}{X02210}
-  \gtab{D7}{XX0212}
+  \gtab*{D7}{XX0212}
 
   \begin{verse}
     Cré-\[C]moé, cré-moi pas

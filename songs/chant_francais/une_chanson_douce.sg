@@ -5,10 +5,10 @@
 
   \cover
   \gtab{C}{X32010}
-  \gtab{G7}{320001}
+  \gtab*{G7}{320001}
   \gtab{G}{320003}
-  \gtab{A&}{4:X02210}
-  \gtab{B&}{6:X02210}
+  \gtab*{A&}{4:X02210}
+  \gtab*{B&}{6:X02210}
   \gtab{A}{5:X02210}
 
   \begin{verse}

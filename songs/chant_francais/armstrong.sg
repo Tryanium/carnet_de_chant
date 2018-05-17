@@ -6,9 +6,9 @@
   \cover
   \capo{3}
   \gtab{Em}{022000}
-  \gtab{B7}{X21202}
+  \gtab*{B7}{X21202}
   \gtab{Am}{X02210}
-  \gtab{C7}{X32310}
+  \gtab*{C7}{X32310}
 
   \begin{verse}
     \[Em]Armstrong, \[B7]je ne \[Em]suis pas \[Am]noir

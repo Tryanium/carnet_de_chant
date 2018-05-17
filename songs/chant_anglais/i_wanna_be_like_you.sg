@@ -5,11 +5,11 @@
 
   \cover
   \gtab{Cm}{3:X02210}
-  \gtab{G7}{3:020100}
-  \gtab{B&7}{1:X02020}
-  \gtab{E&7}{6:X02020}
-  \gtab{C7}{X32310}
-  \gtab{F7}{1:020100}
+  \gtab*{G7}{3:020100}
+  \gtab*{B&7}{1:X02020}
+  \gtab*{E&7}{6:X02020}
+  \gtab*{C7}{X32310}
+  \gtab*{F7}{1:020100}
 
   \begin{verse}
     Now \[Cm]{I'm} the king of the swingers, oh
@@ -87,5 +87,13 @@
     Can \[F7]learn to be
     \[B&7]Like someone like \[E&7]me!
   \end{chorus}
+
+
+  \begin{center}
+  \vspace{3cm}
+   \includegraphics[scale=0.8]{../../img/jungle.jpg}
+  \vspace{3cm}
+  \end{center}
+
 
 \endsong

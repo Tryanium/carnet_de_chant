@@ -3,6 +3,13 @@
 \beginsong{Allumer le feu}
   [by={Johnny\ Hallyday}]
 
+\gtab*{Bm}{2:X02210}
+\gtab*{D5}{XX023X}
+\gtab*{E7}{020100}
+\gtab*{F#m}{X44200}
+\gtab*{E/F#}{222100}
+
+
 \begin{verse}
   \[Bm]Tourner le temps à l'orage\[D5] \[E7]
   \[E7]Revenir à l'état sauvage\[G] \[A]
@@ -23,16 +30,16 @@
 
 \begin{chorus}
   All\[Bm]umer le feu\[D5]
-  All\[E7]umer le\[G] feu
-  Et faire\[E] danser\[G] les diables et le\[A]s dieux
+  All\[E7]umer le \[G]feu
+  Et faire \[E]danser \[G]les diables et le\[A]s dieux
   All\[Bm]umer le f\[D5]eu
   All\[E7]umer le f\[G]eu
-  Et voir\[E] grandir\[G] la flamme dans\[A] vos yeux
+  Et voir \[E]grandir \[G]la flamme dans \[A]vos yeux
   Allumer le feu (x2)
 \end{chorus}
 
 \begin{verse*}
-  \[Bm] \[D5] \[E7] \[G] \[A] \[E/F#] \[A]
+  \musicnote{\nolyrics \[Bm D5 E7 G A E/F{\shrp} A]}
 \end{verse*}
 
 \begin{verse}

@@ -9,12 +9,12 @@
   \gtab{G}{320003}
   \gtab{Em}{022000}
   \gtab{Am}{X02210}
-  \gtab{D7}{XX0212}
+  \gtab*{D7}{XX0212}
   \gtab{C}{X32010}
 
 
   \begin{verse}
-    \[D] Il s'appelait Stew\[G]ball
+    \[D]Il s'appelait Stew\[G]ball
     C'était \[Em]un cheval \[Am]blanc
     Il était mon i\[D7]dole
     Et moi j'avais dix \[G]ans \[C]

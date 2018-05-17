@@ -10,9 +10,9 @@
   \gtab{Dm}{XX0231}
   \gtab{E}{022100}
   \gtab{A}{X02220}
-  \gtab{Bm}{2:X02210}
+  \gtab*{Bm}{2:X02210}
   \gtab{D}{XX0232}
-  \gtab{F#m}{2:022000}
+  \gtab*{F#m}{2:022000}
   \gtab{G}{320003}
 
   \ifchorded

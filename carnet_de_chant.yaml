@@ -57,17 +57,17 @@ titles: # Analyse des titres
   - Mon
   - Un
 content:
-  - part*: "Chants français"
+  - part*: "Chansons françaises"
   - sort:
       key: ["by", "title"]
       content:
         - "chant_francais/*.sg"
-  - part*: "Chants étrangers"
+  - part*: "Chansons étrangères"
   - sort:
       key: ["by", "title"]
       content:
         - "chant_anglais/*.sg"
-  - part*: "Chants scouts"
+  - part*: "Chansons scoutes"
   - sort:
       key: ["by", "title"]
       content:

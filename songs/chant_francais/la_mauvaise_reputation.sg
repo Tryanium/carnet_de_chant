@@ -4,9 +4,9 @@
   [by={Georges\ Brassens},album={La mauvaise réputation}]
 
   \cover
-  \gtab{Bm}{2:X02210}
-  \gtab{F#7}{2:020100}
-  \gtab{F#}{2:022100}
+  \gtab*{Bm}{2:X02210}
+  \gtab*{F#7}{2:020100}
+  \gtab*{F#}{2:022100}
   \gtab{G}{3:022100}
   \gtab*{Em6}{3:XX212X}
   \gtab*{F4}{X2323X}

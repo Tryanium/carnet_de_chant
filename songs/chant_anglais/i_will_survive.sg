@@ -3,9 +3,9 @@
 \beginsong{I will survive}
   [by={Gloria\ Gaynor}]
 
-
-\echo{Intro : Am Dm G C F B E E7}
-
+  \begin{verse*}
+    \musicnote{\Intro: \nolyrics \[Am Dm G C F B E E7]}
+  \end{verse*}
 
 \begin{verse}
   At f\[Am]irst I was afraid

@@ -4,12 +4,12 @@
   [by={Georges\ Brassens},album={Supplique pour être enterré sur la plage de Sète}]
 
   \cover
-  \gtab{Bm}{2:X02210}
-  \gtab{F#}{2:022100}
+  \gtab*{Bm}{2:X02210}
+  \gtab*{F#}{2:022100}
   \gtab{Em}{022000}
-  \gtab{A7}{X02020}
+  \gtab*{A7}{X02020}
   \gtab{D}{XX0232}
-  \gtab{B7}{X21202}
+  \gtab*{B7}{X21202}
   \gtab{G}{320003}
 
   \begin{verse}

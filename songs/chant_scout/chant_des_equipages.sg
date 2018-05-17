@@ -7,13 +7,13 @@
   \cover
 
   \gtab{Em}{022000}
-  \gtab{Bm}{2:X02210}
+  \gtab*{Bm}{2:X02210}
   \gtab{G}{320003}
   \gtab{D}{XX0232}
-  \gtab{D4}{X00233}
+  \gtab*{D4}{X00233}
 
   \beginverse*
-    \nolyrics{\[Em] \[Bm] \[G] \[D] \[D4] \[D]}
+    \musicnote{\Intro :\nolyrics { \[Em] \[Bm] \[G] \[D] \[D4] \[D]}}
   \endverse
 
   \beginverse
@@ -56,6 +56,6 @@
     Quand les Scouts et les Guides tous ensemble s'installent
     Quand on joue comme des fous sans peur de se faire mal
     Quand on est rassemblés le soir autour du feu
-    La bonne humeur et la joie effacent le brouillard 
+    La bonne humeur et la joie effacent le brouillard
   \endverse
 \endsong

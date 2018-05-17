@@ -4,14 +4,14 @@
   [by={Georges\ Brassens},album={Chanson pour l'Auvergnat}]
 
   \cover
-  \gtab{Bm}{2:X02210}
-  \gtab{F#}{2:022100}
+  \gtab*{Bm}{2:X02210}
+  \gtab*{F#}{2:022100}
   \gtab{G}{3:022100}
-  \gtab{A7}{X02020}
+  \gtab*{A7}{X02020}
   \gtab{D}{XX0232}
-  \gtab{D7}{XX0212}
+  \gtab*{D7}{XX0212}
   \gtab{Em}{022000}
-  \gtab{G7}{3:020100}
+  \gtab*{G7}{3:020100}
 
   \begin{verse}
     \[Bm]Elle est à toi cet\[F#]te chanson

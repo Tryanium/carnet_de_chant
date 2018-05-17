@@ -8,15 +8,15 @@
 
   \gtab{Am}{X02210}
   \gtab{A}{X02220}
-  \gtab{B&}{X02220}
-  \gtab{Bm}{2:X02210}
+  \gtab*{B&}{X02220}
+  \gtab*{Bm}{2:X02210}
   \gtab{B}{2:X02220}
   \gtab{C}{X32010}
   \gtab{D}{XX0232}
   \gtab{Em}{022000}
   \gtab{E}{022100}
   \gtab{G}{320003}
-  \gtab{B7}{X21202}
+  \gtab*{B7}{X21202}
 
   \beginverse
     Minuit se \[Bm]lève en \[B&]haut des \[Bm]tours
