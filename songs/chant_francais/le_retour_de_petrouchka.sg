@@ -4,10 +4,10 @@
   [by={Les\ blérots\ de\ r.a.v.e.l},album={Les joies sauvages}]
 
   \cover
-  \gtab{Fm}{1:022000}
-  \gtab{B&m}{1:X02210}
-  \gtab{C7}{X32310}
-  \gtab{C#7}{1:X2120X}
+  \gtab*{Fm}{1:022000}
+  \gtab*{B&m}{1:X02210}
+  \gtab*{C7}{X32310}
+  \gtab*{C#7}{1:X2120X}
 
   \begin{verse}
     \[Fm]Petrouchka avait mal tourné

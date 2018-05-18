@@ -3,11 +3,14 @@
 \beginsong{Les corons}
   [by={Pierre\ Bachelet}]
 
+\gtab*{G7}{320001}
+\gtab*{E7}{020100}
+
 \begin{chorus}
-  Au\[C] nord,\[G] c'étaient les co\[C]rons
-  La\[G] terre\[G7] c'était le char\[Am]bon
-  Le\[F] ciel\[G] c'était l'hori\[C]zon
-  Les h\[Dm]ommes\[E7] des mineurs de fo\[Am]nd
+  Au \[C]nord, \[G]c'étaient les co\[C]rons
+  La \[G]terre \[G7]c'était le char\[Am]bon
+  Le \[F]ciel \[G]c'était l'hori\[C]zon
+  Les h\[Dm]ommes \[E7]des mineurs de fo\[Am]nd
 \end{chorus}
 
 \begin{verse}
@@ -16,7 +19,7 @@
   Et mon père en rentrant avait les yeux si bleus\[G]
   Que je croyais voir le ciel bleu\[C]
   J'apprenais mes leçons, la joue contre son bras\[G]
-  Je crois qu'il était fier\[Dm] de moi\[Am]
+  Je crois qu'il était fier \[Dm]de moi\[Am]
   Il était généreux comme ceux du pays\[G]
   Et je lui dois ce que je suis\[G7]
 \end{verse}

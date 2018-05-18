@@ -5,7 +5,7 @@
 
   \cover
   \gtab{F}{1:022100}
-  \gtab{B&}{1:X02220}
+  \gtab*{B&}{1:X02220}
   \gtab{C}{X32010}
   \gtab{Dm}{XX0231}
 
@@ -25,7 +25,7 @@
 
   \begin{chorus}
     Ça fait \[F]rire les oiseaux
-    \[B&] Oh, \[C]oh, oh, \[F]rire les oiseaux
+    \[B&]Oh, \[C]oh, oh, \[F]rire les oiseaux
     \rep{2}
   \end{chorus}
 

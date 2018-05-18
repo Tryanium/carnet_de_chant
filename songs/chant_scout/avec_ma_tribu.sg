@@ -11,7 +11,7 @@
   \gtab{C}{X32010}
   \gtab{Em}{022000}
   \gtab{Am}{X02210}
-  \gtab{D7}{XX0212}
+  \gtab*{D7}{XX0212}
 
   \beginchorus
     Un \[G]monde tout en \[D]bleu

@@ -5,8 +5,8 @@
 
   \cover
   \gtab{A}{X02220}
-  \gtab{F#m}{2:022000}
-  \gtab{B}{2:X02220}
+  \gtab*{F#m}{2:022000}
+  \gtab*{B}{2:X02220}
 
   \begin{verse}
     \[A]Un jour, j'irai a \[F#m]{New York} avec toi

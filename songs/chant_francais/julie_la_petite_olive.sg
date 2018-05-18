@@ -5,12 +5,12 @@
 
   \cover
   \gtab{A}{X02220}
-  \gtab{Bm}{2:X02210}
+  \gtab*{Bm}{2:X02210}
   \gtab{E}{022100}
-  \gtab{F#}{2:022100}
+  \gtab*{F#}{2:022100}
   \gtab{D}{XX0232}
-  \gtab{G#}{4:022100}
-  \gtab{C#m}{4:X02210}
+  \gtab*{G#}{4:022100}
+  \gtab*{C#m}{4:X02210}
 
   \begin{verse}
     Ju\[A]lie la p'tite olive

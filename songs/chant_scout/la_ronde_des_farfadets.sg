@@ -3,25 +3,29 @@
 \beginsong{La ronde des farfadets}
   [by={Jacques\ Sevin}]
 
+\gtab*{B&}{XX3331}
+\gtab*{E&}{XX1343}
+\gtab*{F7}{1:XX0100}
+
 \begin{verse}
-  \[Bb]Avec tous mes a\[Bb]mis
-  \[Bb]Tout au long de la \[Bb]vie
-  \[Bb]Les Farfadets sont l\[Bb]à
-  \[Bb]Pour me donner la j\[Bb]oie
+  \[B&]Avec tous mes a\[B&]mis
+  \[B&]Tout au long de la \[B&]vie
+  \[B&]Les Farfadets sont l\[B&]à
+  \[B&]Pour me donner la j\[B&]oie
 \end{verse}
 
 \begin{verse*}
   \[Gm]Ils m’aident à mieux conn\[Cm]aître
-  \[Eb]Mes mains, mon cœur, ma t\[Bb]êt\[F]e
+  \[E&]Mes mains, mon cœur, ma t\[B&]êt\[F]e
   \[Gm]Nous chantons à tue-\[Cm]tête
-  \[Eb]Dans les jeux et la \[Bb]fêt\[F]e
+  \[E&]Dans les jeux et la \[B&]fêt\[F]e
 \end{verse*}
 
 \begin{chorus}
-  \[Bb]Nous voici dans la r\[Eb]onde, nous sommes Farfa\[Bb]dets
-  Pour agir dans le m\[F7]onde, toujours en se\[Bb]cret…
-  Nous voici dans la r\[Eb]onde, nous sommes Farfa\[Bb]dets
-  N\[F7]ous aidons tout le m\[Bb]onde
+  \[B&]Nous voici dans la r\[E&]onde, nous sommes Farfa\[B&]dets
+  Pour agir dans le m\[F7]onde, toujours en se\[B&]cret…
+  Nous voici dans la r\[E&]onde, nous sommes Farfa\[B&]dets
+  N\[F7]ous aidons tout le m\[B&]onde
 \end{chorus}
 
 \begin{verse}

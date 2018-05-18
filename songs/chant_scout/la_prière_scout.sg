@@ -15,7 +15,9 @@
 \end{verse*}
 
 \begin{center}
-  \includegraphics[scale=0.1]{../../img/croix.png}
+  \vspace*{\fill}
+    \includegraphics[scale=0.1]{../../img/croix.png}
+  \vspace*{\fill}
 \end{center}
 
 \endsong

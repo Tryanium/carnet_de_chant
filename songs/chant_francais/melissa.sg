@@ -6,7 +6,7 @@
   \cover
   \gtab{E}{022100}
   \gtab{A}{X02220}
-  \gtab{B7}{X21202}
+  \gtab*{B7}{X21202}
 
   \begin{chorus}
     \[G]Mélissa, mé\[D]tisse d'I\[G]biza

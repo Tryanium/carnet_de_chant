@@ -3,74 +3,88 @@
 \beginsong{Comme un homme}
   [by={Mulan}]
 
+\gtab*{D/F#)}{200242}
+\gtab*{C/E}{032010}
+\gtab*{Dsus4}{XX0233}
+\gtab*{D#7}{XX1323}
+\gtab*{Esus4}{011100}
+\gtab*{F#m}{2:022000}
+\gtab*{E&/G}{8:X31144}
+\gtab*{A&}{4:X02210}
+\gtab*{B&m}{1:002210}
+\gtab*{E&}{XX1343}
+\gtab*{D&}{4:X02220}
+\gtab*{Fsus4}{XX3311}
+
+
 
 \begin{verse}
   \[Em]Atta\[D/F#]quons l'e\[G]xercice
-  Pour dé\[Am]faire les\[D] Huns !
-  \[Em]M'ont-ils\[D/F#] donné l\[G]eur fils ?
-  Je n'en\[Am] vois pas\[D] un
+  Pour dé\[Am]faire les \[D]Huns !
+  \[Em]M'ont-ils \[D/F#]donné l\[G]eur fils ?
+  Je n'en \[Am]vois pas \[D]un
 \end{verse}
 
 \begin{verse*}
-  Vous êtes\[C/E] plus fragiles que\[D/F#] des fillettes
-  Mais jusqu'au\[G] bout, et coup par\[C] coup
-  Je sau\[C]rai faire de\[D4] vrais\[D] hommes de v\[Em]ous \[Em]
+  Vous êtes \[C/E]plus fragiles que \[D/F#]des fillettes
+  Mais jusqu'au \[G]bout, et coup par \[C]coup
+  Je sau\[C]rai faire de \[Dsus4]vrais \[D]hommes de v\[Em]ous \[Em]
 \end{verse*}
 
 \begin{verse*}
-  \[Em]Comme la\[D/F#] flèche qui\[G] vibre
-  Et frappe\[Am] en plein\[D] coeur
+  \[Em]Comme la \[D/F#]flèche qui \[G]vibre
+  Et frappe \[Am]en plein \[D]coeur
   \[Em]En trou\[D/F#]vant l'é\[G]quilibre,
   Vous se\[Am]rez vain\[D]queurs
 \end{verse*}
 
 \begin{verse*}
-  Vous n'êtes\[C/E] qu'une bande de\[D/F#] femmelettes
-  Mais en\[G]vers et contre\[C] tout
-  Je sau\[C]rai faire de\[D4] vrais\[D] hommes de v\[Em]ous \[Em]
+  Vous n'êtes \[C/E]qu'une bande de \[D/F#]femmelettes
+  Mais en\[G]vers et contre \[C]tout
+  Je sau\[C]rai faire de \[Dsus4]vrais \[D]hommes de v\[Em]ous \[Em]
 \end{verse*}
 
 \begin{verse}
-  \[C]J'aurais du me mettre\[D] au régime
-  \[B]Salue tous mes amis\[Em] pour moi !
-  \[D/F#]Je n'aurais pas du sé\[G]cher les cours de\[C] gym
-  \[C]Ce gars-là nous\[D] flanque les foies
-  \[B]Mais s'il voyait la fille\[Em] en moi
-  \[D/F#]Je suis tout en nage, mais\[G] nager je ne sais\[C] pas
+  \[C]J'aurais du me mettre \[D]au régime
+  \[B]Salue tous mes amis \[Em]pour moi !
+  \[D/F#]Je n'aurais pas du sé\[G]cher les cours de \[C]gym
+  \[C]Ce gars-là nous \[D]flanque les foies
+  \[B]Mais s'il voyait la fille \[Em]en moi
+  \[D/F#]Je suis tout en nage, mais \[G]nager je ne sais \[C]pas
 \end{verse}
 
 \begin{verse*}
-  (\[C]Comme un\[D] homme) Sois plus vio\[C/E]lent que le\[D/F#] cours du\[G] torrent
-  (\[C]Comme un\[D] homme) Sois plus puis\[C/E]sant que\[D/F#] les ouraga\[D#7(dim)]ns \[Em]
-  (\[C]Comme un\[D] homme) Sois plus ar\[C/E]dent que\[D/F#] le feu de\[D#7(dim)]s volcans, \[Em]
-  Secr\[C]et comme les nuits de lune\[D] de l'Orient\[E(sus4)] \[Em]
+  (\[C]Comme un \[D]homme) Sois plus vio\[C/E]lent que le \[D/F#]cours du \[G]torrent
+  (\[C]Comme un \[D]homme) Sois plus puis\[C/E]sant que \[D/F#]les ouraga\[D#7]ns \[Em]
+  (\[C]Comme un \[D]homme) Sois plus ar\[C/E]dent que \[D/F#]le feu de\[D#7]s volcans, \[Em]
+  Secr\[C]et comme les nuits de lune \[D]de l'Orient\[Esus4] \[Em]
 \end{verse*}
 
 \begin{verse}
-  \[Fm]Les jours\[Eb/G] passent et\[Ab] les Huns
-  ne sont\[Bbm] plus très\[Eb] loin
-  \[Fm]Suivez\[Eb/G] bien mon\[Ab] chemin,
-  Vous vi\[Bbm]vrez de\[Eb] main
+  \[Fm]Les jours \[E&/G]passent et \[Ab]les Huns
+  ne sont \[B&m]plus très \[E&]loin
+  \[Fm]Suivez \[E&/G]bien mon \[Ab]chemin,
+  Vous vi\[B&m]vrez de \[E&]main
 \end{verse}
 
 \begin{verse*}
-  Vous n'se\[Db]rez jamais vail\[Eb]lants et forts
-  Comme des\[Ab] hommes, rentrez chez\[Db] vous
-  Je ne\[Db] peux faire de\[Eb] vrais hommes de\[Fm] vous\[Fm]
+  Vous n'se\[D&]rez jamais vail\[E&]lants et forts
+  Comme des \[Ab]hommes, rentrez chez \[D&]vous
+  Je ne \[D&]peux faire de \[E&]vrais hommes de \[Fm]vous\[Fm]
 \end{verse*}
 
 \begin{verse*}
-  (\[Db]Comme un\[Eb] homme) Sois plus vio\[Db]lent que le\[Eb] cours du torrent \[Ab]
-  (\[Db]Comme un\[Eb] homme) Sois plus\[Db] puissant\[Eb] que le\[E(dim)]s ouragans\[Fm]
-  (\[Db]Comme un\[Eb] homme) Sois plus\[Db] ardent qu\[Eb]e le fe\[E(dim)]u des volc\[Fm]ans
-  Secr\[Db]et comme les nuits de lune de\[Eb] l'Orient\[F(sus4)] \[Fm]
+  (\[D&]Comme un \[E&]homme) Sois plus vio\[D&]lent que le \[E&]cours du torrent \[Ab]
+  (\[D&]Comme un \[E&]homme) Sois plus \[D&]puissant \[E&]que le\[E]s ouragans\[Fm]
+  (\[D&]Comme un \[E&]homme) Sois plus \[D&]ardent qu\[E&]e le fe\[E]u des volc\[Fm]ans
+  Secr\[D&]et comme les nuits de lune de \[E&]l'Orient\[Fsus4] \[Fm]
 \end{verse*}
 
 \begin{verse*}
- (\[Db]Comme un\[Eb] homme) Sois plus\[Db] violent que\[Eb] le cours du torrent\[Ab]
- (\[Db]Comme un\[Eb] homme) Sois plu\[Db]s puissant q\[Eb]ue les ouragan\[E(dim)]s \[Fm]
- (\[Db]Comme un\[Eb] homme) Sois plus\[Db] ardent que\[Eb] le feu des volcan\[E(dim)]s \[Fm]
- Secr\[Db]et comme les nuits de lune de\[Eb] l'Orient\[F(sus4)] \[Fm]
+ (\[D&]Comme un \[E&]homme) Sois plus \[D&]violent que \[E&]le cours du torrent\[Ab]
+ (\[D&]Comme un \[E&]homme) Sois plu\[D&]s puissant q\[E&]ue les ouragan\[E]s \[Fm]
+ (\[D&]Comme un \[E&]homme) Sois plus \[D&]ardent que \[E&]le feu des volcan\[E]s \[Fm]
+ Secr\[D&]et comme les nuits de lune de \[E&]l'Orient\[Fsus4] \[Fm]
 \end{verse*}
 
 \begin{center}

@@ -6,9 +6,9 @@
   \cover
   \gtab{A}{X02220}
   \gtab{E}{022100}
-  \gtab{F#m}{2:022000}
+  \gtab*{F#m}{2:022000}
   \gtab{D}{XX0232}
-  \gtab{Bm}{2:X02210}
+  \gtab*{Bm}{2:X02210}
 
   \begin{verse}
     \[A]Cendrillon, pour \[E]ses vingt ans

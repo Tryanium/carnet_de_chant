@@ -4,11 +4,11 @@
   [by={Jeanette},album={Jeanette}]
 
   \cover
-  \gtab{Gm}{3:022000}
-  \gtab{Cm}{3:X02210}
-  \gtab{D7}{3:X2120X}
-  \gtab{E&}{6:X02220}
-  \gtab{B&}{6:022100}
+  \gtab*{Gm}{3:022000}
+  \gtab*{Cm}{3:X02210}
+  \gtab*{D7}{3:X2120X}
+  \gtab*{E&}{6:X02220}
+  \gtab*{B&}{6:022100}
   \gtab{Dm}{5:X02210}
   \gtab{D}{5:X02220}
 
@@ -29,11 +29,11 @@
   \begin{chorus}
     \[E&]Todas las promesas de mi amor
     Se irán con\[Gm]tigo
-    Me olvida\[B&]ras, \[Dm] me olvida\[Gm]ras
+    Me olvida\[B&]ras, \[Dm]me olvida\[Gm]ras
     \[E&]Junto a la estación lloraré
     Igual que un \[Gm]niño
-    Porque te \[B&]vas, \[D] porque te \[Gm]vas
-    \[D] Porque te \[Gm]vas, \[D] porque te \[Gm]vas
+    Porque te \[B&]vas, \[D]porque te \[Gm]vas
+    \[D]Porque te \[Gm]vas, \[D]porque te \[Gm]vas
   \end{chorus}
 
   \begin{verse}

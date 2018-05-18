@@ -3,6 +3,9 @@
 \beginsong{Place des grands Hommes}
   [by={Patrick\ Bruel}]
 
+\gtab*{Am7}{X02010}
+\gtab*{Bm}{2:X02210}
+
 \begin{chorus}
   On s\[G]'était dit rendez-vo\[Am7]us dans dix ans ?
   \[G]Même jour même heure mêmes po\[C]mmes
@@ -11,54 +14,54 @@
 \end{chorus}
 
 \begin{verse}
-  \[G]Le jour est v'nu et\[Am7] moi aussi\[G], et j'veux pas être le pre\[C]mier
-  \[Em]Si on n'avait plus rien à s'\[Bm] dire et si et si
-  \[C]J'fais des détours dans l'quarti\[D]er,\[C] c'est fou c'qu'un crépu\[D]scule de Printemps
-  \[G]Rappelle le même crépuscule qu'y a\[C] dix ans,\[Am] trottoirs usés par les regard\[G]s baissés
+  \[G]Le jour est v'nu et \[Am7]moi aussi\[G], et j'veux pas être le pre\[C]mier
+  \[Em]Si on n'avait plus rien à s'\[Bm]dire et si et si
+  \[C]J'fais des détours dans l'quarti\[D]er, \[C]c'est fou c'qu'un crépu\[D]scule de Printemps
+  \[G]Rappelle le même crépuscule qu'y a \[C]dix ans, \[Am]trottoirs usés par les regard\[G]s baissés
   \[C]Qu'est-ce que j'ai fais d'ces année\[D]s, j\[C]'ai pas flotté tranquille sur l'e\[D]
-  \[G]J'ai pas nagé le vent dans\[C] l'dos,\[Am] dernière ligne droite la\[G] rue Souflot
-  Combien\[D] seront là, 4 3 2 1 0
+  \[G]J'ai pas nagé le vent dans \[C]l'dos, \[Am]dernière ligne droite la \[G]rue Souflot
+  Combien \[D]seront là, 4 3 2 1 0
 \end{verse}
 
 \begin{verse}
-  \[G]J'avais eu si souvent env\[Am7]ie d'elle,\[G] la belle Séverine me r'gard'\[C]ra-t-elle
+  \[G]J'avais eu si souvent env\[Am7]ie d'elle, \[G]la belle Séverine me r'gard'\[C]ra-t-elle
   \[Em]Eric voulait explorer l'subc\[Bm]onscient
   \[C]R'monte-t-il à la surface de t\[D]emps en temps
   \[C]J'ai un peu peur de traverser l\[D]'miroir
   \[G]Si j'y'allais pas j'me serais tromp\[C]é d'un soir
   \[Am]Devant une vitrine d'ant\[G]iquités
   \[C]J'imagine les r'trouvailles de l'\[D]amitié
-  \[C]T'as pas changé,\[D] qu'est-c'tu devien\[G]t, tu t'es mariée t'as\[C] trois gamins
-  \[Am]T'as réussi,\[G] tu fais médecin
+  \[C]T'as pas changé, \[D]qu'est-c'tu devien\[G]t, tu t'es mariée t'as \[C]trois gamins
+  \[Am]T'as réussi, \[G]tu fais médecin
   \[D]Et toi Pascal tu t'marres toujours pour rien,  allez !
 \end{verse}
 
 \begin{verse}
-  \[G]J'ai connu des marées hautes et\[Am7] des marées basses
+  \[G]J'ai connu des marées hautes et \[Am7]des marées basses
   \[G]Comme vous comme vous comme v\[C]ous
-  \[Em]J'ai rencontré des tempêtes et\[Bm] des bourrasques
+  \[Em]J'ai rencontré des tempêtes et \[Bm]des bourrasques
   \[C]Comme vous comme vous comme v\[D]ous
   \[C]Chaque amour morte à une nouve\[D]lle a fait place
-  \[G]Et vous et vous\[C] et vous
-  Et\[Am] toi Marco qui ambitionn\[G] ait simplement
+  \[G]Et vous et vous \[C]et vous
+  Et \[Am]toi Marco qui ambitionn \[G]ait simplement
   \[C]D'être heureux dans la v\[D]ie, As-tu r\[C]éussi ton pa\[D]ri
-  Et\[G] toi François et\[C] toi Laurence et\[Am] toi Marion
-  Et\[G] toi Gégé et\[D] toi Bruno et toi Evelyne
+  Et \[G]toi François et \[C]toi Laurence et \[Am]toi Marion
+  Et \[G]toi Gégé et \[D]toi Bruno et toi Evelyne
 \end{verse}
 
 \begin{verse}
-  \[G]Eh bien c'est formidable\[Am7] les copains\[G], on s'est tout dit on s\[C]'serre la main
-  \[Em]On peut pas mettre dix\[Bm] ans sur table,\[C] comme on étale ses lettres au\[D] Scrabble
-  \[G]Dans la vitrine je\[Am7] vois l'reflet\[G], d'une lycéenne derrière\[C] moi
-  \[Em]Elle part à gauche je\[Bm] la suivrai,\[C] si c'est à droite\[D]
-  Attendez\[G]-moi\[Am7], attendez-\[G]moi,\[C] attendez-m\[Em]oi, a\[Bm]ttendez-moi\[C] \[D]
+  \[G]Eh bien c'est formidable \[Am7]les copains\[G], on s'est tout dit on s\[C]'serre la main
+  \[Em]On peut pas mettre dix \[Bm]ans sur table, \[C]comme on étale ses lettres au \[D]Scrabble
+  \[G]Dans la vitrine je \[Am7]vois l'reflet\[G], d'une lycéenne derrière \[C]moi
+  \[Em]Elle part à gauche je \[Bm]la suivrai, \[C]si c'est à droite\[D]
+  Attendez\[G]-moi\[Am7], attendez-\[G]moi, \[C]attendez-m\[Em]oi, a\[Bm]ttendez-moi\[C] \[D]
 \end{verse}
 
 \begin{chorus}
-  On\[G] s'était dit rendez-v\[Am7]ous dans dix ans\[G] ? Même jour même heure mêmes po\[C]mmes
+  On \[G]s'était dit rendez-v\[Am7]ous dans dix ans \[G]? Même jour même heure mêmes po\[C]mmes
   \[Em]On verra quand on aur\[Bm]a trente ans
-  \[C]Si on est devenu\[D] des grands h\[G]ommes,\[Am7] des grands h\[G]ommes,\[C]
-  Des grands\[Em] hommes\[Bm],\[C] \[D] \[G]
+  \[C]Si on est devenu \[D]des grands h\[G]ommes, \[Am7]des grands h\[G]ommes,\[C]
+  Des grands \[Em]hommes\[Bm],\[C] \[D] \[G]
 
   Tiens si on se donnait rendez-vous dans dix ans ?
 \end{chorus}

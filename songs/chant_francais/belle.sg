@@ -3,6 +3,14 @@
 \beginsong{Belle}
   [by={Notre-Dame\ de\ Paris}]
 
+\gtab*{Gm}{3:022000}
+\gtab*{Bm}{2:X02210}
+\gtab*{F#}{2:022100}
+\gtab*{B&m}{1:002210}
+\gtab*{A&m}{4:022000}
+\gtab*{D&m}{4:X02210}
+\gtab*{E&}{XX1343}
+
 \begin{verse}
   \[Dm]Belle,
   \[Dm]C'est un mot qu'on dir\[Gm]ait invent\[A]é pour e\[Dm]lle
@@ -28,10 +36,10 @@
 
 \begin{verse}
   \[Fm]Belle,
-  \[Fm]Est-ce le diable qui s\[Bbm]'est incarn\[C]é en e\[Fm]lle
-  \[Fm]Pour détourner mes y\[Bbm]eux du Dieu é\[C]tern\[Fm]el,
-  \[Fm]Qui a mis d\[Bbm]ans mon être c\[C]e désir charn\[Fm]el
-  \[Fm]Pour m'empêc\[Bbm]her de regard\[C]er vers le C\[Dm]iel ?
+  \[Fm]Est-ce le diable qui s\[B&m]'est incarn\[C]é en e\[Fm]lle
+  \[Fm]Pour détourner mes y\[B&m]eux du Dieu é\[C]tern\[Fm]el,
+  \[Fm]Qui a mis d\[B&m]ans mon être c\[C]e désir charn\[Fm]el
+  \[Fm]Pour m'empêc\[B&m]her de regard\[C]er vers le C\[Dm]iel ?
 
   \[Dm]Elle porte e\[Gm]n elle le péc\[A]hé origin\[Dm]el
   \[Dm]La désir\[Gm]er fait-il de m\[C]oi un crimin\[F]el ?
@@ -45,44 +53,44 @@
 \end{verse}
 
 \begin{verse*}
-  Dm   Gm   C   Fm   Fm   Bbm   Eb
-  (Modulation en : Abm )
+  \[Dm   Gm   C   Fm   Fm   B&m   E&]
+  (Modulation en : \[A&m] )
 \end{verse*}
 
 \begin{verse}
-  \[Abm]Belle,
-  \[Abm]Malgré ses grands yeux n\[Dbm]oirs qui vous e\[Eb]nsorcell\[Abm]ent
-  \[Abm]La demoiselle ser\[Dbm]ait-elle enc\[Eb]ore puc\[Abm]elle ?
-  \[Abm]Quand ses mouv\[Dbm]ements me font v\[Eb]oir monts et merv\[Abm]eilles
-  \[Abm]Sous son jup\[Dbm]on aux couleurs d\[Eb]e l'arc-en-c\[Fm]iel
+  \[A&m]Belle,
+  \[A&m]Malgré ses grands yeux n\[D&m]oirs qui vous e\[E&]nsorcell\[A&m]ent
+  \[A&m]La demoiselle ser\[D&m]ait-elle enc\[E&]ore puc\[A&m]elle ?
+  \[A&m]Quand ses mouv\[D&m]ements me font v\[E&]oir monts et merv\[A&m]eilles
+  \[A&m]Sous son jup\[D&m]on aux couleurs d\[E&]e l'arc-en-c\[Fm]iel
 
-  \[Fm]Ma dulcin\[Bbm]ée, laissez-moi v\[C]ous être infid\[Fm]èle
-  \[Fm]Avant de v\[Bbm]ous avoir men\[Eb]ée jusqu'à l'aut\[Ab]el !
+  \[Fm]Ma dulcin\[B&m]ée, laissez-moi v\[C]ous être infid\[Fm]èle
+  \[Fm]Avant de v\[B&m]ous avoir men\[E&]ée jusqu'à l'aut\[Ab]el !
   \[Fm]Quel
-  \[Fm]Est l'homme q\[Bbm]ui détourner\[C]ait son regard d\[Fm]'elle
-  \[Fm]Sous peine d\[Bbm]'être changé e\[Eb]n statue de s\[Ab]el ?
+  \[Fm]Est l'homme q\[B&m]ui détourner\[C]ait son regard d\[Fm]'elle
+  \[Fm]Sous peine d\[B&m]'être changé e\[E&]n statue de s\[Ab]el ?
 
   \[Ab]O Fleur-de-L\[C]ys,
   Je ne suis p\[C]as homme de f\[Fm]oi
-  \[Fm]J'irai cueill\[Bbm]ir la fleur d'am\[C]our d'Esmerald\[Fm]a
+  \[Fm]J'irai cueill\[B&m]ir la fleur d'am\[C]our d'Esmerald\[Fm]a
 \end{verse}
 
 \begin{verse*}
-  Fm   Bbm   Eb   Abm   Abm   Dbm   Eb   Fm
+  \[Fm   B&m   E&   A&m   A&m   D&m   E&   Fm]
 \end{verse*}
 
 
 \begin{verse}
-  \[Fm]J'ai posé m\[Bbm]es yeux sous sa r\[C]obe de git\[Fm]ane
-  \[Fm]A quoi me s\[Bbm]ert encore de p\[Eb]rier Notre-D\[Ab]ame ?
+  \[Fm]J'ai posé m\[B&m]es yeux sous sa r\[C]obe de git\[Fm]ane
+  \[Fm]A quoi me s\[B&m]ert encore de p\[E&]rier Notre-D\[Ab]ame ?
   \[Fm]Quel
-  \[Fm]Est celui q\[Bbm]ui lui jetter\[C]a la première p\[Fm]ierre ?
-  \[Fm]Celui-là n\[Bbm]e mérite p\[Eb]as d'être sur t\[Ab]erre
+  \[Fm]Est celui q\[B&m]ui lui jetter\[C]a la première p\[Fm]ierre ?
+  \[Fm]Celui-là n\[B&m]e mérite p\[E&]as d'être sur t\[Ab]erre
 
   \[Ab]O Lucif\[C]er !
   Oh ! Laisse-m\[C]oi rien qu'une f\[Fm]ois
-  \[Fm]Glisser mes d\[Bbm]oigts dans les chev\[C]eux d'Esmerald\[Fm]a
-  \[Fm] \[Bbm] \[C] Esmerald\[Fm]a
+  \[Fm]Glisser mes d\[B&m]oigts dans les chev\[C]eux d'Esmerald\[Fm]a
+  \[Fm] \[B&m] \[C] Esmerald\[Fm]a
 \end{verse}
 
 \begin{center}

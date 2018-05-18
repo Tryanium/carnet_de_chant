@@ -3,8 +3,9 @@
 \beginsong{Can't help falling in love}
   [by={Elvis\ Presley}]
 
-\cover
 \capo{2}
+\gtab*{B7}{2:X02020}
+\gtab*{A7}{X02020}
 
 
 \begin{verse*}
@@ -14,14 +15,14 @@
 \begin{verse}
   \[C]Wise \[Em]men sa\[Am]y, only fo\[F]ols ru\[C]sh in\[G]
   But \[F]I ca\[G]n't h\[Am]elp, f\[F]alling in l\[C]ove w\[G]ith y\[C]ou
-  \[C]Shall\[Em] I sta\[Am]y, would it be\[F] a\[C] s\[G]in
+  \[C]Shall \[Em]I sta\[Am]y, would it be \[F]a \[C]s\[G]in
   If \[F]I ca\[G]n't h\[Am]elp, f\[F]alling in l\[C]ove w\[G]ith y\[C]ou
 \end{verse}
 
 \begin{verse}
-  \[Em]Like a river\[B7] flows,\[Em] surely to the\[B7] sea
-  \[Em]Darling so it\[B7] goes
-  \[Em]Some things\[A7] are meant to\[Dm] be\[G]
+  \[Em]Like a river \[B7]flows, \[Em]surely to the \[B7]sea
+  \[Em]Darling so it \[B7]goes
+  \[Em]Some things \[A7]are meant to \[Dm]be\[G]
 \end{verse}
 
 \begin{verse}
@@ -30,9 +31,9 @@
 \end{verse}
 
 \begin{verse*}
-\[Em]Like a river\[B7] flows,\[Em] surely to the\[B7] sea
-\[Em]Darling so it\[B7] goes
-\[Em]Some things\[A7] are meant to\[Dm] be\[G]
+\[Em]Like a river \[B7]flows, \[Em]surely to the \[B7]sea
+\[Em]Darling so it \[B7]goes
+\[Em]Some things \[A7]are meant to \[Dm]be\[G]
 \end{verse*}
 
 \begin{verse*}

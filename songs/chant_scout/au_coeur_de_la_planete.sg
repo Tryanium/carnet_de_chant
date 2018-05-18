@@ -4,6 +4,12 @@
 \beginsong{Au coeur de la planète}
   [by={Hubert\ Bourel}]
 
+\gtab*{B&}{XX3331}
+\gtab*{A7}{X02020}
+\gtab*{C7}{X32310}
+\gtab*{Gm7}{3:020000}
+
+
 \begin{chorus}
   \[Dm]Un coeur \[C]bat
   Au \[A]coeur de la pla\[Dm]nète
@@ -17,10 +23,10 @@
 \begin{verse}
   \[Gm]La confiance est \[Dm]à l’accueil
   \[Gm]L’orée des for\[Dm]êts t’appelle
-  \[Bb]L’amitié don\[F]ne des ailes
+  \[B&]L’amitié don\[F]ne des ailes
   \[Gm6]Viens on v\[Gm7]a franch\[A]ir le seuil…
   Aupr\[Gm]ès de la peu\[Dm]plade,
-  \[Bb]Ce sont tes a\[F]mis,
+  \[B&]Ce sont tes a\[F]mis,
   \[Gm7]Tu vas réuss\[A]ir ta v\[Dm]ie. \[A]
 \end{verse}
 

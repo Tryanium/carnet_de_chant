@@ -5,16 +5,19 @@
 
 
 \begin{verse}
-  \[G7]Mes chers parents je\[C] pars
-  \[G7]Je vous aime mais\[Am] je pars
-  \[G7]Vous n'aurez plus\[F] d'enfants, ce soir\[G]
+  \[G7]Mes chers parents je \[C]pars
+  \[G7]Je vous aime mais \[Am]je pars
+  \[G7]Vous n'aurez plus \[F]d'enfants, ce soir\[G]
 
-  \[G7]Je n'm'enfuis pas je\[C] vole
-  \[G7]Comprenez bien je\[Am] vole
-  \[G7]Sans fumée sans al\[F]cool, je vole, je\[G] vole
+  \[G7]Je n'm'enfuis pas je \[C]vole
+  \[G7]Comprenez bien je \[Am]vole
+  \[G7]Sans fumée sans al\[F]cool, je vole, je \[G]vole
 \end{verse}
 
-\echo{(Parlé :)  G7   C   G7   Am   G7   F   G}
+
+\begin{verse*}
+  \musicnote{Parlé : \nolyrics \[G7 C G7 Am G7 F G]}
+\end{verse*}
 
 \begin{verse}
   C'est jeudi il est 5h05
@@ -43,8 +46,10 @@
   Et après l'Atlantique ...
 \end{verse*}
 
-\echo{G7   C   G7   Am   G7   F   G}
-\echo{(Parlé :)  G7   C   G7   Am   G7   F   G}
+\begin{verse*}
+  \musicnote{\nolyrics \[G7 C G7 Am G7 F G]}
+  \musicnote{Parlé : \nolyrics \[G7 C G7 Am G7 F G]}
+\end{verse*}
 
 \begin{verse}
   C'est bizarre cette espèce de cage qui me bloque la poitrine
@@ -64,13 +69,13 @@
 \end{verse*}
 
 \begin{verse}
-  \[G7]Mes chers parents je\[C] pars
-  \[G7]Je vous aime mais\[Am] je pars
-  \[G7]Vous n'aurez plus\[F] d'enfants, ce soir\[G]
+  \[G7]Mes chers parents je \[C]pars
+  \[G7]Je vous aime mais \[Am]je pars
+  \[G7]Vous n'aurez plus \[F]d'enfants, ce soir\[G]
 
-  \[G7]Je n'm'enfuis pas je\[C] vole
-  \[G7]Comprenez bien je\[Am] vole
-  \[G7]Sans fumée sans al\[F]cool, je vole, je\[G] vole
+  \[G7]Je n'm'enfuis pas je \[C]vole
+  \[G7]Comprenez bien je \[Am]vole
+  \[G7]Sans fumée sans al\[F]cool, je vole, je \[G]vole
 \end{verse}
 
 \begin{center}

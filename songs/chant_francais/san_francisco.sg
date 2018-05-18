@@ -3,8 +3,10 @@
 \beginsong{San Francisco}
   [by={Maxime\ Le\ Forestier}]
 
+\gtab*{Bm}{2:X02210}
+
 \begin{verse}
-  \[Em]C'est une maison \[G] bleue \[Bm]
+  \[Em]C'est une maison \[G]bleue \[Bm]
   Adossée à la co\[C]lline
   On y vient à pie\[G]d
   On ne frappe p\[D]as
@@ -24,7 +26,7 @@
   Quand San Francisc\[C]o s'allum\[Em]e
   \[D]San Francis\[Bm]co
   Où êtes-\[Em]vous
-  \[G]Lizzard et\[A] Luc,
+  \[G]Lizzard et \[A]Luc,
   \[C]Psylvia
   Attendez\[Em]-moi
 \end{chorus}
@@ -45,7 +47,7 @@
   Quand San Francisco se lève
   \[D]San Francis\[Bm]co
   Où êtes-\[Em]vous
-  \[G]Lizzard et\[A] Luc,
+  \[G]Lizzard et \[A]Luc,
   \[C]Psylvia
   Attendez\[Em]-moi
 \end{verse}
@@ -67,10 +69,10 @@
 
 \begin{verse}
   \[Em]Si San Francisc\[G]o s'effondr\[A]e...
-  Si San \[C] Francisco s'effon\[Em]dre...
+  Si San \[C]Francisco s'effon\[Em]dre...
   \[D]San Francis\[Bm]co
   Où êtes-\[Em]vous
-  \[G]Lizzard et\[A] Luc,
+  \[G]Lizzard et \[A]Luc,
   P\[C]sylvia
   \[D]Attendez-m\[E4]oi
 \end{verse}

@@ -3,53 +3,61 @@
 \beginsong{Guerre, guerre, vente, vent}
   [by={Tri\ Yann}]
 
+\gtab*{Esus2}{XX2452}
+\gtab*{E/B}{2:X1X34X}
+\gtab*{C#m}{3:002210}
+\gtab*{F#m}{2:022000}
+\gtab*{C#sus4}{X3312X}
+\gtab*{Esus4}{011100}
+
+
 \begin{verse}
-  Après\[E2] sept années de\[D] guerre, sept an\[E/B]nées de\[C#m] bâti-m\[F#m]ent
-  \echo{Après\[E2] sept années de\[D] guerre, sept an\[E/B]nées de\[C#m] bâti-m\[F#m]ent}
-  Je re\[C#4]viens de Grande\[D] Terre, je re\[E4]vient à Lo\[F#m]rient
-  \echo{Je re\[C#4]vient de Grande\[D] Terre, Guerre,\[E4] guerre, vente,\[F#m] vent}
+  Après \[E2]sept années de \[D]guerre, sept an\[E/B]nées de \[C#m]bâti-m\[F#m]ent
+  \echo{Après \[E2]sept années de \[D]guerre, sept an\[E/B]nées de \[C#m]bâti-m\[F#m]ent}
+  Je re\[C#4]viens de Grande \[D]Terre, je re\[E4]vient à Lo\[F#m]rient
+  \echo{Je re\[C#4]vient de Grande \[D]Terre, Guerre, \[E4]guerre, vente, \[F#m]vent}
 \end{verse}
 
 \begin{verse}
-  J'ai pa\[E2]ssé des nuits en\[D]tière debout au\[E/B] gaillard\[C#m] d'- a\[F#m]vant
-  \echo{J'ai pa\[E2]ssé des nuits en\[D]tière debout au\[E/B] gaillard\[C#m] d'- a\[F#m]vant}
-  Sous bon\[C#4] vent, sous vent con\[D]traire, sous la\[E4] brise, sous les\[F#m] brisants
-  \echo{Sous bon\[C#4] vent, sous vent con\[D]traire, Guerre,\[E4] guerre, vente,\[F#m] vent}
+  J'ai pa\[E2]ssé des nuits en\[D]tière debout au \[E/B]gaillard \[C#m]d'- a\[F#m]vant
+  \echo{J'ai pa\[E2]ssé des nuits en\[D]tière debout au \[E/B]gaillard \[C#m]d'- a\[F#m]vant}
+  Sous bon \[C#4]vent, sous vent con\[D]traire, sous la \[E4]brise, sous les \[F#m]brisants
+  \echo{Sous bon \[C#4]vent, sous vent con\[D]traire, Guerre, \[E4]guerre, vente, \[F#m]vent}
 \end{verse}
 
 \begin{verse}
-  Voyez\[E2] mon sac de mi\[D]sère lourd de\[E/B] gourdes,\[C#m] vide d'ar\[F#m]gent
-  \echo{Voyez\[E2] mon sac de mi\[D]sère, Guerre,\[E/B] guerre,\[C#m] vente,\[F#m] vent}
-  Allez\[C#4] dire au capi\[D]taine, j'ai o\[E4]béi trop sou\[F#m]vent
-  \echo{Allez\[C#4] dire au capi\[D]taine, Guerre,\[E4] guerre, vente,\[F#m] vent}
+  Voyez \[E2]mon sac de mi\[D]sère lourd de \[E/B]gourdes, \[C#m]vide d'ar\[F#m]gent
+  \echo{Voyez \[E2]mon sac de mi\[D]sère, Guerre, \[E/B]guerre, \[C#m]vente, \[F#m]vent}
+  Allez \[C#4]dire au capi\[D]taine, j'ai o\[E4]béi trop sou\[F#m]vent
+  \echo{Allez \[C#4]dire au capi\[D]taine, Guerre, \[E4]guerre, vente, \[F#m]vent}
 \end{verse}
 
 \begin{verse}
-  Bonjour\[E2] ma mie qui m'est\[D] chère revoi\[E/B] là ton\[C#m] cher a\[F#m]mant
-  \echo{Bonjour\[E2] ma mie qui m'est\[D] chère revoi\[E/B] là ton\[C#m] cher a\[F#m]mant}
-  Je suis\[C#4] las de trop de\[D] guerres sans voir\[E4] grandir mes en\[F#m]fants
-  \echo{Je suis\[C#4] las de trop de\[D] guerre, Guerre,\[E4] guerre, vente,\[F#m] vent}
+  Bonjour \[E2]ma mie qui m'est \[D]chère revoi \[E/B]là ton \[C#m]cher a\[F#m]mant
+  \echo{Bonjour \[E2]ma mie qui m'est \[D]chère revoi \[E/B]là ton \[C#m]cher a\[F#m]mant}
+  Je suis \[C#4]las de trop de \[D]guerres sans voir \[E4]grandir mes en\[F#m]fants
+  \echo{Je suis \[C#4]las de trop de \[D]guerre, Guerre, \[E4]guerre, vente, \[F#m]vent}
 \end{verse}
 
 \begin{verse}
-  J'ai re\[E2]çu tes milles\[D] lettres par le\[E/B] rossig\[C#m]nol chant\[F#m]ant
-  \echo{J'ai re\[E2]çu tes milles\[D] lettres par le\[E/B] rossig\[C#m]nol chant\[F#m]ant}
-  Je t'é\[C#4]crivais moins peut-\[D]être, je t'en\[E4] voyais des ru\[F#m]bans
-  \echo{Je t'é\[C#4]crivais moins peut-\[D]être, Guerre,\[E4] guerre, vente,\[F#m] vent}
+  J'ai re\[E2]çu tes milles \[D]lettres par le \[E/B]rossig\[C#m]nol chant\[F#m]ant
+  \echo{J'ai re\[E2]çu tes milles \[D]lettres par le \[E/B]rossig\[C#m]nol chant\[F#m]ant}
+  Je t'é\[C#4]crivais moins peut-\[D]être, je t'en \[E4]voyais des ru\[F#m]bans
+  \echo{Je t'é\[C#4]crivais moins peut-\[D]être, Guerre, \[E4]guerre, vente, \[F#m]vent}
 \end{verse}
 
 \begin{verse}
-  Mes a\[E2]mis plus que na\[D]guère vous me\[E/B] verrez bie\[C#m]n souv\[F#m]ent
-  \echo{Mes a\[E2]mis plus que na\[D]guère vous me\[E/B] verrez bie\[C#m]n souv\[F#m]ent}
-  Après\[C#4] tant années de\[D] guerre, j'aurai\[E4] tant et tant de\[F#m] temps
-  \echo{Après\[C#4] tant d'années de\[D] guerre, Guerre,\[E4] guerre, vente,\[F#m] vent}
+  Mes a\[E2]mis plus que na\[D]guère vous me \[E/B]verrez bie\[C#m]n souv\[F#m]ent
+  \echo{Mes a\[E2]mis plus que na\[D]guère vous me \[E/B]verrez bie\[C#m]n souv\[F#m]ent}
+  Après \[C#4]tant années de \[D]guerre, j'aurai \[E4]tant et tant de \[F#m]temps
+  \echo{Après \[C#4]tant d'années de \[D]guerre, Guerre, \[E4]guerre, vente, \[F#m]vent}
 \end{verse}
 
 \begin{verse}
-  De Lori\[E2]ent à Grande\[D] Terre, vent ar\[E/B]rière,\[C#m] vent a\[F#m]vant
-  \echo{De Lori\[E2]ent à Grande\[D] Terre, vent ar\[E/B]rière,\[C#m] vent a\[F#m]vant}
-  Les fleurs\[C#4] d'hiver étaient\[D] belles, elles an\[E4]nonçaient le prin\[F#m]temps
-  \echo{Les fleurs\[C#4] d'hiver étaient\[D] belles, Guerre,\[E4] guerre, vente, ve\[F#m]nt ...}
+  De Lori\[E2]ent à Grande \[D]Terre, vent ar\[E/B]rière, \[C#m]vent a\[F#m]vant
+  \echo{De Lori\[E2]ent à Grande \[D]Terre, vent ar\[E/B]rière, \[C#m]vent a\[F#m]vant}
+  Les fleurs \[C#4]d'hiver étaient \[D]belles, elles an\[E4]nonçaient le prin\[F#m]temps
+  \echo{Les fleurs \[C#4]d'hiver étaient \[D]belles, Guerre, \[E4]guerre, vente, ve\[F#m]nt ...}
 \end{verse}
 
 \endsong

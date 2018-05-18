@@ -5,9 +5,9 @@
 
   \cover
   \gtab{Em}{022000}
-  \gtab{D6/9}{200200}
-  \gtab{Em9}{X20002}
-  \gtab{Dmaj9}{XX0220}
+  \gtab*{D6/9}{200200}
+  \gtab*{Em9}{X20002}
+  \gtab*{Dmaj9}{XX0220}
 
   \begin{verse}
     On the \[Em]first part of the \[D6/9]journey

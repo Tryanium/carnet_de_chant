@@ -5,13 +5,13 @@
 
   \cover
   \gtab{A}{X0X220}
-  \gtab{A&/A}{X4X220}
-  \gtab{F#m}{2XX222}
+  \gtab*{A&/A}{X4X220}
+  \gtab*{F#m}{2XX222}
   \gtab{D}{XX0232}
-  \gtab{E*}{4:XX2010}
+  \gtab*{E*}{4:XX2010}
   \gtab{E}{0XX100}
-  \gtab{Bm}{224432}
-  \gtab{C#m}{4:002210}
+  \gtab*{Bm}{224432}
+  \gtab*{C#m}{4:002210}
 
 
 

@@ -9,7 +9,7 @@
   \gtab{D}{XX0232}
   \gtab{C}{X32010}
   \gtab{Am}{X02210}
-  \gtab{Bm}{2:X02210}
+  \gtab*{Bm}{2:X02210}
 
   \begin{verse}
     \[G]Tu étais venue en car \[D]au cœur du mois d'août \echo{ou-\[Em]ouh}

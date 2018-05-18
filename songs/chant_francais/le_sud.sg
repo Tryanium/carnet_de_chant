@@ -2,40 +2,49 @@
 \songcolumns{2}
 \beginsong{Le sud}
   [by={Nino\ Ferrer}]
-\cover
+
+
 \capo{4}
+\gtab*{C/G}{332010}
+\gtab*{D7/F#}{200212}
+\gtab*{Em/B}{X22003}
+\gtab*{C9}{X32330}
+\gtab*{D/F#)}{200242}
+\gtab*{Dm7/C}{X3323X}
+\gtab*{Dm7/G}{300211}
+\gtab*{F#m}{2:022000}
 
 
 \begin{verse}
   \[C]C'est un en\[Em/B]droit qui res\[Am]semble à la Lou\[C/G]isiane
   \[D7/F#] \[F]à l'Ita\[C]lie
-  \[C]Il y a du\[Em/B] linge éten\[Am]du sur la te\[C/G]rrasse
+  \[C]Il y a du \[Em/B]linge éten\[Am]du sur la te\[C/G]rrasse
   \[D7/F#] \[F]et c'est jo\[Em]li
 \end{verse}
 
 \begin{chorus}
-  \[F]On dirait le\[C] Sud\[C] \[C9] \[F]le temps dure longt\[C]emps \[C] \[C9]
+  \[F]On dirait le \[C]Sud \[C C9] \[F]le temps dure longt\[C]emps \[C] \[C9]
   \[F]Et la vie sûrem\[C]ent \[C] \[Em/B]
-  \[Am]Plus\[Am7/G] d'un million d'an\[D/F#]nées \[D4/G] \[D/A] \[D/B] \[Dm7/C] \[Dm7] \[Dm7/G]
+  \[Am]Plus \[Am7/G]d'un million d'an\[D/F#]nées \[D4/G] \[D/A] \[D/B] \[Dm7/C] \[Dm7] \[Dm7/G]
   Et toujours en été\[C] \[Em/B] \[Am] \[C/G] \[D7/F#] \[Fm] \[C]
 \end{chorus}
 
 \begin{verse}
-  \[C]Y'a plein d'en\[Em/B]fants qui se\[Am] roulent sur la p\[C/G]elouse
+  \[C]Y'a plein d'en\[Em/B]fants qui se \[Am]roulent sur la p\[C/G]elouse
   \[D7/F#] \[F]Y'a plein de c\[C]hiens
-  \[C]Y'a même un\[Em/B] chat, une tor\[Am]tue, des poissons\[C/G] rouges
+  \[C]Y'a même un \[Em/B]chat, une tor\[Am]tue, des poissons \[C/G]rouges
   \[D7/F#] \[F]Il ne manque r\[Em]ien
 \end{verse}
 
 \begin{verse*}
-  \[C]Di di\[Em/B] di di.\[Am]..\[C/G] \[D7/F#] \[F] \[C]
-  \[C]Di di\[Em/B] di di.\[Am]..\[C/G] \[D7/F#] \[F] \[Em]
+  \[C]Di di \[Em/B]di di.\[Am]..\[C/G] \[D7/F#] \[F] \[C]
+  \[C]Di di \[Em/B]di di.\[Am]..\[C/G] \[D7/F#] \[F] \[Em]
 \end{verse*}
 
 \begin{verse*}
-  \[F]La la la la\[C] la\[C] \[C9] l\[F]a la la la la\[C] la \[C] \[C9]
-  \[F]La la la la\[C] la\[C] \[Em/B]
-  \[Am]La l\[Am7/G]a la la la\[D/F#] la l\[D4/G]a la\[D/A] la la\[D/B] la la\[Dm7/C] La la\[Dm7] la la\[Dm7/G] la la
+  \[F]La la la la \[C]la\[C] \[C9] l\[F]a la la la la \[C]la \[C] \[C9]
+  \[F]La la la la \[C]la\[C] \[Em/B]
+  \[Am]La l\[Am7/G]a la la la \[D/F#]la l\[D4/G]a la \[D/A]la la \[D/B]la la \[Dm7/C]La la \[Dm7]la la \[Dm7/G]la la
 \end{verse*}
 
 
@@ -44,16 +53,16 @@
 \end{verse*}
 
 \begin{verse}
-  \[C]Un jour ou\[Em/B] l'autre, il fau\[Am]dra qu'il y ait la\[C/G] guerre
-  \[D7/F#] \[F]On le sait\[C] bien
-  \[C]On n'aime pas\[Em/B] ça, mais on\[Am] ne sait pas quoi\[C/G] faire
+  \[C]Un jour ou \[Em/B]l'autre, il fau\[Am]dra qu'il y ait la \[C/G]guerre
+  \[D7/F#] \[F]On le sait \[C]bien
+  \[C]On n'aime pas \[Em/B]ça, mais on \[Am]ne sait pas quoi \[C/G]faire
   \[D7/F#] \[F]On dit c'est le des\[Em]tin
 \end{verse}
 
 \begin{chorus}
-  \[F]Tant pis pour le\[C] Sud\[C] \[C9] \[F]c'était pourtant b\[C]ien \[C] \[C9]
-  \[F]On aurait pu\[C] vivre\[C] \[Em/B]
-  \[Am]Plus \[Am7/G] d'un million d'an\[D/F#]nées \[D4/G] \[D/A] \[D/B] \[Dm7/C] \[Dm7] \[Dm7/G]
+  \[F]Tant pis pour le \[C]Sud\[C] \[C9] \[F]c'était pourtant b\[C]ien \[C] \[C9]
+  \[F]On aurait pu \[C]vivre\[C] \[Em/B]
+  \[Am]Plus \[Am7/G]d'un million d'an\[D/F#]nées \[D4/G] \[D/A] \[D/B] \[Dm7/C] \[Dm7] \[Dm7/G]
   Et toujours en é\[C]té \[Em/B] \[Am] \[C/G] \[D7/F#] \[Fm] \[C]
 \end{chorus}
 

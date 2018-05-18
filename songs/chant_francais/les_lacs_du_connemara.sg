@@ -5,29 +5,29 @@
 
   \cover
   \gtab{F}{1:022100}
-  \gtab{B&}{1:X02220}
+  \gtab*{B&}{1:X02220}
   \gtab{C}{332010}
   \gtab{Dm}{XX0231}
-  \gtab{Gm}{1:022000}
+  \gtab*{Gm}{1:022000}
   \ifrepeatchords%
-  \gtab{Gm7}{1:022030}
-  \gtab{G#}{3:022100}
-  \gtab{C#}{1:X32010}
-  \gtab{E&}{3:X32010}
+  \gtab*{Gm7}{1:022030}
+  \gtab*{G#}{3:022100}
+  \gtab*{C#}{1:X32010}
+  \gtab*{E&}{3:X32010}
   \gtab{Fm}{1:022000}
-  \gtab{F7}{1:022130}
-  \gtab{B&m}{1:X02210}
-  \gtab{B7}{X21202}
+  \gtab*{F7}{1:022130}
+  \gtab*{B&m}{1:X02210}
+  \gtab*{B7}{X21202}
   \gtab{E}{022100}
   \fi%
-  \gtab{C#7}{1:032000}
-  \gtab{F#m}{2:022000}
-  \gtab{G#7}{4:020100}
-  \gtab{C#m}{4:X02210}
+  \gtab*{C#7}{1:032000}
+  \gtab*{F#m}{2:022000}
+  \gtab*{G#7}{4:020100}
+  \gtab*{C#m}{4:X02210}
   \gtab{D}{XX0232}
   \gtab{G}{320003}
   \gtab{A}{X02220}
-  \gtab{Bm}{2:X02210}
+  \gtab*{Bm}{2:X02210}
   \gtab{Em}{022000}
   \gtab*{D7}{XX0212}
   \gtab*{B&7}{1:X02020}

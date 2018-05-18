@@ -4,10 +4,10 @@
   [by={Ridan},album={L'ange de mon démon}]
 
   \cover
-  \gtab{Dm}{5:X02210}
-  \gtab{Gm}{3:022000}
+  \gtab*{Dm}{5:X02210}
+  \gtab*{Gm}{3:022000}
   \gtab{A}{5:022100}
-  \gtab{B&}{6:022100}
+  \gtab*{B&}{6:022100}
 
 
   \begin{verse}

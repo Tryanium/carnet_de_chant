@@ -9,12 +9,12 @@
   \gtab{C}{X32010}
   \gtab{G}{320003}
   \gtab{Em}{022000}
-  \gtab{B7}{X21202}
-  \gtab{D7}{XX0212}
+  \gtab*{B7}{X21202}
+  \gtab*{D7}{XX0212}
 
 
   \begin{verse}
-    \[G] Quand on fait la \[B7]java le samedi à Broad\[Em]way
+    \[G]Quand on fait la \[B7]java le samedi à Broad\[Em]way
     Ça swinge comme à Meu\[D7]don
     \[G]On s'défonce on y \[B7]va pas besoin de Beau\[Em]jolais
     Quand on \[C]a du Bour\[G]bon

@@ -3,12 +3,21 @@
 \beginsong{Dans ce monde qui avance}[
   by={H.\ Bourel\ et\ ML.\ Valentin}]
 
+\gtab*{E/G#}{4:XX3124}
+\gtab*{A/F#}{202220}
+\gtab*{F#m}{X44200}
+\gtab*{C#m}{3:002210}
+\gtab*{B&}{XX3331}
+\gtab*{F/A}{5332XX}
+
+
+
 \begin{verse*}
   on frappe dans ses mains à la « We will rock you »
 \end{verse*}
 
 \begin{chorus}
-  \[E]Dans ce monde qui\[B] avance
+  \[E]Dans ce monde qui \[B]avance
   \[A]Je fais de mon mie\[B]ux
   \[E]Pour faire vivre l'es\[B]pérance
   \[A]Et gran\[B]dir le f\[E]eu
@@ -23,7 +32,7 @@
 
 \begin{verse*}
   Tu l\[E/G#]e promets.
-  Ense\[A/F#]mble on ira jusqu'au\[B] bout.
+  Ense\[A/F#]mble on ira jusqu'au \[B]bout.
   \[F#m]Quand l’un de nous \[C#m]tombera.
   \[F#m]On pourra comp\[A]ter s\[B]ur toi.
 \end{verse*}
@@ -62,21 +71,21 @@
 \end{verse}
 
 \begin{chorus}
-  \[F]Dans ce monde qui\[C] avance
-  \[Bb]Je fais de mon mie\[C]ux
+  \[F]Dans ce monde qui \[C]avance
+  \[B&]Je fais de mon mie\[C]ux
   \[F]Pour faire vivre l'es\[C]pérance
-  \[Bb]Et gran\[C]dir le f\[F]eu
+  \[B&]Et gran\[C]dir le f\[F]eu
 \end{chorus}
 
 \begin{verse}
-  Je me\[Bb] connais
+  Je me \[B&]connais
   Tu t\[F/A]e connais
-  Je m\[Bb/G]e sais déjà bâtisseur \[C]
-  Je le pro\[Bb]mets.
+  Je m\[B&/G]e sais déjà bâtisseur \[C]
+  Je le pro\[B&]mets.
   Tu l\[F/A]e promets.
-  Avec \[Bb/G]vous d'un monde meil\[C]leur
+  Avec \[B&/G]vous d'un monde meil\[C]leur
   Qu\[Gm]and l’un de nous t\[Dm]ombera
-  O\[Gm]n pourra comp\[Bb]ter s\[C]ur toi
+  O\[Gm]n pourra comp\[B&]ter s\[C]ur toi
 \end{verse}
 
 \endsong

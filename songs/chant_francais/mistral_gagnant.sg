@@ -4,12 +4,12 @@
   [by={Renaud},album={Mistral gagnant}]
 
   \cover
-  \gtab{Bm}{2:X02210}
+  \gtab*{Bm}{2:X02210}
   \gtab{Em}{022000}
   \gtab{A}{X02220}
   \gtab{D}{XX0232}
   \gtab{G}{320003}
-  \gtab{F#}{2:022100}
+  \gtab*{F#}{2:022100}
 
   \begin{verse*}
     \musicnote{ \Intro : \nolyrics { \[Bm] \[Em] \[A] \[G] \[Bm] \[Em] \[F\#] \[Bm] }}
