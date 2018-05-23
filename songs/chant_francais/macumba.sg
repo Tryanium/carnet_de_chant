@@ -40,11 +40,9 @@
     \end{verse}
   \end{repeatedchords}
 
-  \textnote{\Chorus}
-
   \begin{center}
   \vspace*{\fill}
-    \includegraphics[scale=0.5]{../../img/boite.png}
+    \includegraphics[scale=0.4]{../../img/boite.png}
   \vspace*{\fill}
   \end{center}
 

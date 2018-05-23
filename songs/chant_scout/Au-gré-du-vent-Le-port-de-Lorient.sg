@@ -1,15 +1,17 @@
 \selectlanguage{french}
-\songcolumns{3}
+\songcolumns{2}
 \beginsong{Au gré du vent (Le port de Lorient)}
 
 
   \begin{verse}
-  Dans le port de Lorient, de grands voiliers tout blancs,
-  Attendent en rêvant, au gré du vent,
-  Dans le port de Lorient, de grands voiliers tout blancs,
-  Attendent en rêvant, au gré du vent,
-  Puis ils s’en vont pour l’Orient, au gré du vent,
-  Puis ils s’en vont, au gré du vent.
+    Dans le port de Lorient, de grands voiliers tout blancs,
+    Attendent en rêvant, au gré du vent,
+    Dans le port de Lorient, de grands voiliers tout blancs,
   \end{verse}
+  \begin{verse*}
+    Attendent en rêvant, au gré du vent,
+    Puis ils s’en vont pour l’Orient, au gré du vent,
+    Puis ils s’en vont, au gré du vent.
+  \end{verse*}
 
 \endsong

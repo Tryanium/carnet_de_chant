@@ -1,0 +1,93 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Temps Des Cathédrales}
+  [by={Notre-Dame\ de\ Paris}]
+
+\cover
+\gtab*{Cm}{XX5543}
+\gtab*{Fm}{2:022000}
+\gtab*{B&7}{1:X02020}
+\gtab*{E&M7}{XX1333}
+\gtab*{A&}{4:X02210}
+\gtab*{G4}{330033}
+\gtab*{G7}{320001}
+\gtab*{Fm7}{XX3544}
+\gtab*{Gm7}{3:020000}
+\gtab*{C7}{X32310}
+\gtab*{FM7}{XX3210}
+\gtab*{B&}{XX3331}
+\gtab*{Gm}{3:022000}
+\gtab*{A4}{X02230}
+\gtab*{A7}{X02020}
+\gtab*{Am7}{X02010}
+\gtab*{D7}{XX0212}
+\gtab*{GM7}{320001}
+\gtab*{B4}{7:002200}
+\gtab*{B7}{2:X02020}
+
+
+\begin{verse}
+  \[Cm]C'est une histoire qui a pour li\[Fm]eu
+  \[B&7]Paris la belle en l'an de Di\[E&M7]eu
+  \[A&]Mille-quatre-cent-quatre-vingt-d\[Fm]eux
+  \[G4]Histoire d'am\[G7]our et de dés\[Cm]ir
+  \[Cm]Nous, les artistes anon\[Fm]ymes
+  \[B&7]De la sculpture ou de la \[E&M7]rime
+  \[A&]Tenterons de vous la transc\[Fm]rire
+  \[G4]Pour les siècles \[G7]à ven\[Cm]ir
+\end{verse}
+
+\begin{verse}
+  Il est venu le temps des cathédr\[Fm7]a....les\[B&7]
+  Le \[E&M7]monde est entré\[A&]
+  \[Fm]Dans un nou\[G4]veau millé\[G7]naire\[Cm]
+  L'homme a voulu monter vers les ét\[Fm7]oi.....les\[B&7]
+  \[E&M7]Ecrire son histoire\[A&]
+  \[Fm]Dans le ver\[G4]re ou dans la pierre \[Cm]\[G7]
+  \[Cm]Pierre après pierre, jour après jour\[Fm]
+  \[B&7]De siècle en siècle avec amour\[E&M7]
+  \[A&]Il a vu s'élever les tours\[Fm]
+  \[G4]Qu'il avait bâties de \[G7]ses mains\[Cm]
+  \[Cm]Les poètes et les troubadours\[Fm]
+  \[B&7]Ont chanté des chansons d'amour\[E&M7]
+  \[A&]Qui promettaient au genre humain\[Fm]
+  \[G4]De meilleurs \[G7]lendemains\[Cm]
+\end{verse}
+
+\begin{verse}
+  Il est venu le temps des cathédra\[Fm7]....les\[B&7]
+  \[E&M7]Le monde est entré\[A&]
+  \[Fm]Dans un nouv\[G4]eau millé\[G7]naire\[Cm]
+  L'homme a voulu monter vers les étoi\[Fm7].....les\[B&7]
+  \[E&M7]Ecrire son histoire\[A&]
+  \[Fm]Dans le ver\[G4]re ou dans \[G7]la pierre\[Cm]
+\end{verse}
+
+\begin{verse*}
+  \musicnote{Changement de tonalité : Dm}
+\end{verse*}
+
+\begin{verse}
+  Il est venu le temps des cathédra\[Gm7]....les\[C7]
+  \[FM7]Le monde est entré\[B&]
+  \[Gm]Dans un nou\[A4]veau mill\[A7]énaire\[Dm]
+  L'homme a voulu monter vers les étoi\[Gm7].....les\[C7]
+  \[FM7]Ecrire son histoire\[B&]
+  \[Gm]Dans le ver\[A4]re ou dans \[A7]la pierre\[Dm]
+\end{verse}
+
+\begin{verse*}
+  \musicnote{Changement de tonalité : Em}
+\end{verse*}
+
+\begin{verse}
+  Il est foutu le temps des cathédra\[Am7]......les\[D7]
+  \[GM7]La foule des barbares\[C]
+  \[Am]Est aux port\[B4]es de la \[B7]ville\[Em]
+  Laissez entrer ces païens, ces vanda\[Am7]....les\[D7]
+  \[GM7]La fin de ce monde\[C]
+  \[Am]Est prévue \[B4]pour l'an \[B7]deux mille\[Em]
+  \[Am]Est prévue \[B4]pour l'an \[B7]deux mi...lle\[Em]
+\end{verse}
+
+\endsong
