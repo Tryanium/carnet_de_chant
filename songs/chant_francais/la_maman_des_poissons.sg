@@ -61,11 +61,11 @@
     {\og}Ah ! Qu'est-ce que tu me fais, ma raie !{\fg}
   \end{verse}
 
-  \musicnote{\Verse{} 1}
+  \textnote[french]{Reprise du premier couplet}
 
-  \begin{verse}
+  \begin{verse*}
     La maman des poissons
     Elle est bien gentille
-  \end{verse}
+  \end{verse*}
 
 \endsong
