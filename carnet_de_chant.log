@@ -1,0 +1,2655 @@
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.6.6)  6 JUN 2018 15:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**carnet_de_chant.tex
+(./carnet_de_chant.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+Runaway argument?
+{
+! Paragraph ended before \set@fontsize was complete.
+<to be read again> 
+                   \par 
+l.22 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Too many }'s.
+\fontsize  ...t@fontsize \baselinestretch {#1}{#2}
+                                                  
+l.22 
+     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29     ]{
+           crepbook}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38      ]{
+            geometry}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \usepackage{
+                 lmodern}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \usepackage[french]{
+                         babel}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+! Undefined control sequence.
+l.47 \lang
+          {french}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \lang{f
+            rench}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--48
+[] 
+ []
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \usepackage{
+                 graphicx}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+! Undefined control sequence.
+l.50 \graphicspath
+                  { %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51         {/
+               Users/marinmouscadet/Desktop/carnet_de_chant/} %
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no / in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.51 ...    {/Users/marinmouscadet/Desktop/carnet_
+                                                  de_chant/} %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 51.
+! Extra }, or forgotten $.
+l.51 ...s/marinmouscadet/Desktop/carnet_de_chant/}
+                                                   %
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.53 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (529.57835pt too wide) in paragraph at lines 51--54
+[]$[]\OML/cmm/m/it/10 e[]hant=[]$ 
+ []
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 }
+      
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \usepackage{
+                 chords}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+! Undefined control sequence.
+l.71 \newindex
+              {titleidx}{carnet_de_chant_title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \newindex{t
+                itleidx}{carnet_de_chant_title}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.71 \newindex{titleidx}{carnet_
+                                de_chant_title}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.71 \newindex{titleidx}{carnet_de_chant_title}
+                                               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.72 \newauthorindex
+                    {authidx}{carnet_de_chant_auth}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.73 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (189.87746pt too wide) in paragraph at lines 71--73
+[]$[]\OML/cmm/m/it/10 e[]hant[]itle[][]$ 
+ []
+
+! Undefined control sequence.
+l.74 \authignoreword
+                    {unknown}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \authignoreword{u
+                      nknown}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.75 \authbyword
+                {by}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+! Undefined control sequence.
+l.76 \authsepword
+                 {and}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+! Undefined control sequence.
+l.77 \authsepword
+                 {et}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 74--78
+[]
+ []
+
+! Undefined control sequence.
+l.79 \notenamesout
+                  {A}{B}{C}{D}{E}{F}{G}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 \notenamesout{A
+                    }{B}{C}{D}{E}{F}{G}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no G in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 79--80
+[] 
+ []
+
+! Undefined control sequence.
+l.82 \pagestyle{empty}\definecolor
+                                  {SongNumberBgColor}{HTML}{FEFEFE}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82 \pagestyle{empty}\definecolor{S
+                                    ongNumberBgColor}{HTML}{FEFEFE}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no S in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+! Undefined control sequence.
+l.83 \definecolor
+                 {NoteBgColor}{HTML}{FEFEFE}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+! Undefined control sequence.
+l.84 \definecolor
+                 {IndexBgColor}{HTML}{FEFEFE}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no F in font nullfont!
+Missing character: There is no E in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 82--85
+[]
+ []
+
+
+! LaTeX Error: \snumbgcolor undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \renewcommand{\snumbgcolor}
+                                {SongNumberBgColor}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \notebgcolor undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 \renewcommand{\notebgcolor}
+                                {NoteBgColor}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \idxbgcolor undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 \renewcommand{\idxbgcolor}
+                               {IndexBgColor}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.90 \definecolor
+                 {tango-green-3}{HTML}{010101}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 \definecolor{t
+                   ango-green-3}{HTML}{010101}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+l.91 \definecolor
+                 {tango-blue-3}{HTML}{6064EC}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no C in font nullfont!
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.100     ]{
+            hyperref}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 90--101
+[]
+ []
+
+! Undefined control sequence.
+l.103 \subtitle
+               {carnet de chant de la ville de Rueil-Malmaison}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \subtitle{c
+                 arnet de chant de la ville de Rueil-Malmaison}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+! Undefined control sequence.
+l.104 \version
+              {1.0.0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+! Undefined control sequence.
+l.105 \mail
+           {mmouscadet@outlook.fr}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+! Undefined control sequence.
+l.106 \web
+          {}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Use of \pictur@ doesn't match its definition.
+<argument> i
+            mg/treble_a
+l.107 \picture{img/treble_a}
+                            
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.107 \picture{img/treble_a}
+                            
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.108 \picturecopyright
+                       {Dbolton \url{http://commons.wikimedia.org/wiki/User:...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.108 \picturecopyright{Dbolton \url
+                                    {http://commons.wikimedia.org/wiki/User:...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.109 \footer
+             {Créé avec le programme Songbook (\url{http://www.patacrep.com})}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.109 ...ter{Créé avec le programme Songbook (\url
+                                                  {http://www.patacrep.com})}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.110 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no é in font cmmi10!
+Missing character: There is no é in font cmmi10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--110
+[]
+ []
+
+
+Overfull \hbox (544.07408pt too wide) in paragraph at lines 103--110
+[][][]$ 
+ []
+
+(./carnet_de_chant.aux
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.23 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \babel@aux{french}{}
+                         
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.29 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.30 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.31 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.32 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.33 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.34 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.35 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.36 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.37 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.38 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.39 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.40 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.41 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.42 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.43 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.44 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.45 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.46 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.47 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.48 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.49 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.50 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.51 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.52 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.53 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.54 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.55 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.56 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.57 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.58 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.59 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.60 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.61 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.62 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.63 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.64 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.65 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.66 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.67 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.68 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.69 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.70 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.71 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.72 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.73 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.74 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.75 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \babel@aux{french}{}
+                         
+You may proceed, but expect wrong results
+
+! Undefined control sequence.
+\babel@aux ...->\select@language {#1}\bbl@foreach 
+                                                  \BabelContentsFiles {\@wri...
+l.76 \babel@aux{french}{}
+                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! Package babel Error: Unknown language `french'. Either you have
+(babel)                misspelled its name, it has not been installed,
+(babel)                or you requested it in a previous run. Fix its name,
+(babel)                install it or just rerun the file, respectively.
+
+See the babel package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \babel@aux{french}{}
+                         
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 28 strings out of 492970
+ 737 string characters out of 6133939
+ 64642 words of memory out of 5000000
+ 4133 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 18i,3n,12p,143b,112s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.

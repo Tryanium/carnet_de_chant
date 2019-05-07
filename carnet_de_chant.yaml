@@ -5,6 +5,7 @@ book: # Options générales
   template: patacrep.tex
   onesongperpage: no
 
+
 chords: # Options musicales
   show: yes
   diagramreminder: important
@@ -31,6 +32,7 @@ template:
       note: FEFEFE
       songnumber: FEFEFE
       index: FEFEFE
+
 
 
 authors: # Analyse des auteurs
