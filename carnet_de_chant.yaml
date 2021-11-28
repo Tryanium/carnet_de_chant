@@ -18,20 +18,22 @@ chords: # Options musicales
 
 template:
   default.tex:
-    title: "Carnet de chanson"
-    author: "NDC"
+    title: "Carnet de chants"
+    author: "Team Work ChamA 2021"
   patacrep.tex:
-    subtitle: "carnet de chant de la ville de Rueil-Malmaison"
-    version: "1.0.0"
+    subtitle: "territoire de l'isère"
+    version: "1.0.1"
     url: ""
-    email: "mmouscadet@outlook.fr"
+    email: "rpp@sgdf38.fr"
+    picture: img/OMMS_logoC.png
+    picturecopyright: "WikiCommons (\\url{https://fr.wikipedia.org/wiki/Organisation_mondiale_du_mouvement_scout})"
     color:
-      songlink: "010101"
+      songlink: "333333"
       hyperlink: 6064EC
     bgcolor:
-      note: FEFEFE
-      songnumber: FEFEFE
-      index: FEFEFE
+      note: F0F0F0
+      songnumber: F0F0F0
+      index: F0F0F0
 
 
 
