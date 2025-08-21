@@ -66,17 +66,17 @@ content:
   - sort:
       key: ["by", "title"]
       content:
-        - "chant_francais/*.sg"
+        - "chants_francais/*.sg"
   - part*: "Chansons étrangères"
   - sort:
       key: ["by", "title"]
       content:
-        - "chant_anglais/*.sg"
+        - "chants_anglais/*.sg"
   - part*: "Chansons scoutes"
   - sort:
       key: ["by", "title"]
       content:
-        - "chant_scout/*.sg"
+        - "chants_scouts/*.sg"
   - part*: "Chants religieux"
   - sort:
       key: ["by", "title"]
