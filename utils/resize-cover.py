@@ -22,7 +22,7 @@ for filename in covers:
 
     width  = 128
     height = 128
-    error  = 0.2 #0: always preserve ratio; 1: always square images 
+    error  = 0.2 #0: always preserve ratio; 1: always square images
 
     #tolerate almost square images
     if ratio < 1 - error  or ratio > 1 + error:
@@ -35,5 +35,6 @@ for filename in covers:
 
     if src_width > width and src_height > height:
         print "resize: ", filename, " from ", source.size, " to ", (width, height)
+        # print 'resize file %s from %s to (%s,%s).', filename, source.size, width, height)
         target = source.resize((width, height), Image.ANTIALIAS)
         target.save(filename)

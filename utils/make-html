@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 #
-# Generate html index for the Crep's chorbook.
+# Generate html index for the Crep's chord-book.
 #
 # Usage: make-html [options] source 
 #        source should be an .sg or .sbd file

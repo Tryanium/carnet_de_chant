@@ -1,11 +1,9 @@
 #!/usr/bin/python
-# 
+#
 
 import sys
 import re
 from optparse import OptionParser
-from utils.utils import recursiveFind
-
 from utils.utils import recursiveFind
 
 # Pattern set to ignore latex command in title prefix
@@ -29,7 +27,7 @@ def main():
     positions = dict()
 
     songfiles = recursiveFind(os.path.join(library, 'songs'), '*.sg')
-    
+
     for file in songfiles:
         for line in open(file):
             result = gtabPattern.match(line)
@@ -43,7 +41,7 @@ def main():
                 positions[position].add(chord)
 
     document = [
-        '\\documentclass{article}',        
+        '\\documentclass{article}',
         '\\usepackage[chorded]{songs}',
         '\\usepackage[utf8]{inputenc}',
         '\\title{Accords}',
@@ -51,7 +49,7 @@ def main():
         '\\date{}',
         '\\begin{document}',
         '\\maketitle',
-        '\\begin{songs}{}', 
+        '\\begin{songs}{}',
         ]
 
     document.append('\\section{Chords names}')
