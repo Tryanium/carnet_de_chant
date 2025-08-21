@@ -3,7 +3,8 @@
 
 import glob
 import getopt, sys
-import re, os
+import re
+import os
 import logging
 import locale
 re.LOCALE
@@ -143,25 +144,27 @@ OPTIONS
       possible LEVEL values are : debug, info, warning, error and critical
 ''')
 
+
 def replace_words(string):
-   '''
+   """
    Search the data string for words defined in the dictionary and
    replace them. This method avoids usual spelling and typos mistakes
    when writing a song.
-   '''
+   """
    logging.info("replace_words: search and replace words from dictionary into song data")
    for search, replace in word_dic.items():
       string = string.replace(search, replace)
    return string
 
-#language based typographical rules
+
+# language based typographical rules
 def language_rules(string):
-   '''
+   """
    Search the data string for common typographical mistakes.
    Implemented rules depend on the current song language that is
    defined by babel for every .sg file through the macro
    \selectlanguage{<lang>}
-   '''
+   """
    logging.info("language_rules: looking for common typographical mistakes")
    if (re.compile("selectlanguage{french}").search(string)):
       logging.info("  song language is set to : french")
@@ -272,6 +275,7 @@ def main():
          songfile.seek(0)
          songfile.write(data)
          songfile.truncate()
-      
+
+
 if __name__ == '__main__':
     main()

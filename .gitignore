@@ -1,0 +1,12 @@
+.cache/
+virtualenv/
+**/.DS_Store
+
+carnet_de_chant.log
+carnet_de_chant.tex
+
+**.pdf
+**.docx
+Carnet/
+rendu/
+venv/

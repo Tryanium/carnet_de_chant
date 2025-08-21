@@ -60,6 +60,7 @@ titles: # Analyse des titres
   - Ma
   - Mon
   - Un
+  - Une
 content:
   - part*: "Chansons françaises"
   - sort:
