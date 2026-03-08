@@ -4,6 +4,9 @@ virtualenv/
 
 carnet_de_chant.log
 carnet_de_chant.tex
+*.out
+*.aux
+*.sxc
 
 **.pdf
 **.docx
