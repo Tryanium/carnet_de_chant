@@ -13,7 +13,7 @@ variables:
 
 chktex:
   stage: lint
-  image: soutaro/chktex:latest
+  image: assignuser/chktex:latest
   script:
     - find songs -name "*.sg" -print0 | xargs -0 chktex
   rules:
@@ -31,7 +31,7 @@ shellcheck:
 
 pylint:
   stage: lint
-  image: python:3.9-slim
+  image: python:3.10-slim
   script:
     - pip install pylint
     - pylint utils/*.py
