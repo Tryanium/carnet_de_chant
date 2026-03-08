@@ -7,7 +7,7 @@ stages:
 
 variables:
   DEBUG: true
-  REGISTRY_NAME: dockerhub.io/gbelabein
+  REGISTRY_NAME: gbelabein
   SB_IMAGE_NAME: songbook-by-patacrep
   DOCKER_IMAGE_NAME: $REGISTRY_NAME/$SB_IMAGE_NAME:$CI_COMMIT_REF_SLUG
   DOCKER_IMAGE_LATEST: $REGISTRY_NAME/$SB_IMAGE_NAME:latest
