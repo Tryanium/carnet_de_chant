@@ -6,7 +6,7 @@ stages:
   - deploy
 
 variables:
-  DEBUG: false
+  DEBUG: true
   REGISTRY_NAME: dockerhub.io/gbelabein
   SB_IMAGE_NAME: songbook-by-patacrep
   DOCKER_IMAGE_NAME: $REGISTRY/$SB_IMAGE_NAME:$CI_COMMIT_REF_SLUG
