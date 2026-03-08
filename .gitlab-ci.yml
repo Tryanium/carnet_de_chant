@@ -23,24 +23,24 @@ variables:
 #    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
 #    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
 #
-#shellcheck:
-#  stage: lint
-#  image: koalaman/shellcheck-alpine:stable
-#  script:
-#    - shellcheck scripts/*.sh
-#  rules:
-#    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
-#    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
-
-pylint:
+shellcheck:
   stage: lint
-  image: python:3.10-slim
+  image: koalaman/shellcheck-alpine:stable
   script:
-    - pip install pylint
-    - pylint utils/*.py
+    - shellcheck scripts/*.sh
   rules:
     - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
     - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
+
+#pylint:
+#  stage: lint
+#  image: python:3.10-slim
+#  script:
+#    - pip install pylint
+#    - pylint utils/*.py
+#  rules:
+#    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+#    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
 
 #hadolint:
 #  stage: lint
