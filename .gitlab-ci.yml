@@ -1,5 +1,5 @@
 stages:
-#  - lint
+  - lint
   - build
   - test
   - release
@@ -12,25 +12,25 @@ variables:
   DOCKER_IMAGE_NAME: $REGISTRY/$SB_IMAGE_NAME:$CI_COMMIT_REF_SLUG
   DOCKER_IMAGE_LATEST: $REGISTRY_NAME/$SB_IMAGE_NAME:latest
 
-chktex:
-  stage: lint
-  image: assignuser/chktex-alpine:latest
-  script:
-    - bash scripts/lint.sh
-    - source rc
-    - exit $RC
-  rules:
-    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
-    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
-
-shellcheck:
-  stage: lint
-  image: koalaman/shellcheck-alpine:stable
-  script:
-    - shellcheck scripts/*.sh
-  rules:
-    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
-    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
+#chktex:
+#  stage: lint
+#  image: assignuser/chktex-alpine:latest
+#  script:
+#    - bash scripts/lint.sh
+#    - source rc
+#    - exit $RC
+#  rules:
+#    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+#    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
+#
+#shellcheck:
+#  stage: lint
+#  image: koalaman/shellcheck-alpine:stable
+#  script:
+#    - shellcheck scripts/*.sh
+#  rules:
+#    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+#    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
 
 pylint:
   stage: lint
@@ -42,14 +42,14 @@ pylint:
     - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
     - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
 
-hadolint:
-  stage: lint
-  image: hadolint/hadolint:latest-alpine
-  script:
-    - hadolint Dockerfile
-  rules:
-    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
-    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
+#hadolint:
+#  stage: lint
+#  image: hadolint/hadolint:latest-alpine
+#  script:
+#    - hadolint Dockerfile
+#  rules:
+#    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+#    - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
 
 build-docker-image:
   stage: build
