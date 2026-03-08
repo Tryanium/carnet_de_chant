@@ -13,7 +13,7 @@ variables:
 
 chktex:
   stage: lint
-  image: apluslms/chktex:latest
+  image: soutaro/chktex:latest
   script:
     - find songs -name "*.sg" -print0 | xargs -0 chktex
   rules:
@@ -89,7 +89,7 @@ build-docker-image:
 #
 #render-songbook:
 #  stage: release
-#  image: apluslms/latex:latest
+#  image: $DOCKER_IMAGE_LATEST
 #  script:
 #    - patacrep --output-directory rendu carnet_de_chant.yaml
 #  artifacts:
