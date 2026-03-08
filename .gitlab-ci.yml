@@ -6,6 +6,7 @@ stages:
   - deploy
 
 variables:
+  DEBUG: false
   REGISTRY_NAME: dockerhub.io/gbelabein
   SB_IMAGE_NAME: songbook-by-patacrep
   DOCKER_IMAGE_NAME: $REGISTRY/$SB_IMAGE_NAME:$CI_COMMIT_REF_SLUG
@@ -15,7 +16,9 @@ chktex:
   stage: lint
   image: assignuser/chktex-alpine:latest
   script:
-    - find songs -name "*.sg" -print0 | xargs -0 chktex
+    - bash scripts/lint.sh
+    - source rc
+    - exit $RC
   rules:
     - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
     - if: '$CI_COMMIT_BRANCH && ($CI_COMMIT_BRANCH =~ /^feature\// || $CI_COMMIT_BRANCH =~ /^fix\//)'
